@@ -1,0 +1,68 @@
+#!/usr/bin/env Rscript
+# 25.10.2018
+# Daniel Schreyer
+
+# Generates one or multiple histogram of the imputed SNPs number per r-squared bin
+# Input: info files of one/multiple dataset/s
+# e.g.: Rscript r2_freq_hist.R -i panelname==<path.to.info.file>,panel2==<path.to.info.2>,...
+#       -o r2_freq_hist.png
+
+# required packages
+library(ggplot2)
+library(dplyr)
+library(optparse)
+library(ggsci)
+library(data.table)
+
+# Takes paths to Input .info file and Output .png file as options
+option_list <- list(
+  make_option(c("-i", "--info"), action="store", default = "${infos}", type = 'character',
+              help = "Imputation .info file of each reference panel"),
+  make_option(c("-o", "--output"), action="store", default = "${plot_out}", type = 'character',
+              help = "Output .png file")
+)
+args <- parse_args(OptionParser(option_list = option_list))
+
+# read in info files of both reference panels
+input <- as.character(args[1])
+inputs <- unlist(strsplit(input,","))
+
+panels <- list()
+for(panel in inputs){
+  file <- unlist(strsplit(panel, "=="))[2]
+  name <- unlist(strsplit(panel, "=="))[1]
+  panels[paste0(name)] <- file
+}
+
+# read in .info files of each reference panel and merge them together in one table
+i <- 1
+for(file in panels){
+  name <- names(panels)[i]
+  panel <- fread(as.character(file), sep = "\t", header = T, 
+                 select = c("SNP", "MAF","Rsq","Genotyped"),
+                 stringsAsFactors=F)
+  panel <- panel %>% mutate(R_Panel = paste0(name))
+  if(i > 1){
+    full <- rbind(full, panel)
+  }else{full <- panel}
+  i <- i+1
+}
+
+# filter out non-imputed SNPs
+imputed <- filter(full, Genotyped == "Imputed")
+imputed <- filter(Imputed, Rsq != "-" | !is.na(Rsq))
+
+#### plot frequency vs r2 ####
+r2.freq.hist <- ggplot(imputed, aes(x = as.numeric(Rsq), fill = R_Panel)) +
+  geom_histogram(bins = 21) +
+  theme_classic() + labs(x = "Mean Imputation Quality Score", y = "SNP Count") +
+  facet_grid(facets =~ R_Panel)+
+  scale_x_continuous(breaks = c(seq(0,1,0.2))) + scale_y_continuous(labels = scales::comma) +
+  geom_vline(aes(xintercept = 0.3),colour = "red", show.legend = F) + 
+  theme(axis.line = element_line(size = 0.8)) +
+  scale_fill_npg(name = "Reference Panel")  +
+  theme(legend.position = "bottom")
+
+# save plot as .png file 
+ggsave(filename = as.character(args[2]), plot = r2.freq.hist, 
+       width = 8, height = 5, units = "in")
