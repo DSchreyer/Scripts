@@ -1,0 +1,5 @@
+WD0001	chromosomal replication initiator protein
+WD0002	Ser/Thr protein phosphatase family protein
+WD0003	GTP cyclohydrolase II 
+WD0004	type IV secretion system protein VirB8
+WD0005	type IV secretion system protein VirB9

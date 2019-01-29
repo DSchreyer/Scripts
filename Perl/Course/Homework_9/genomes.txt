@@ -1,0 +1,20 @@
+Streptomyces coelicolor A3(2)
+9.054
+Escherichia coli K12-MG1655
+4.639
+Bacillus subtilis 168
+4.214
+Nostoc sp. PCC 7120
+7.211
+Myxococcus xanthus DK 1622
+9.139
+Synechocystis sp. PCC6803
+3.573
+Agrobacterium tumefaciens C58 Cereon
+5.673
+Synechococcus sp. WH8102
+2.434
+Staphylococcus aureus MW2
+2.82
+Helicobacter pylori 26695
+1.667

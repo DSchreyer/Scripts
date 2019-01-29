@@ -1,0 +1,3621 @@
+BLASTN 2.3.0+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and
+Webb Miller (2000), "A greedy algorithm for aligning DNA
+sequences", J Comput Biol 2000; 7(1-2):203-14.
+
+
+Reference for database indexing: Aleksandr Morgulis, George
+Coulouris, Yan Raytselis, Thomas L. Madden, Richa Agarwala,
+Alejandro A. Schaffer (2008), "Database Indexing for
+Production MegaBLAST Searches", Bioinformatics 24:1757-1764.
+
+
+RID: 6SNRXDKJ01R
+
+
+Database: Nucleotide collection (nt)
+           33,707,972 sequences; 107,612,224,345 total letters
+Query= gi|515376|emb|X79715.1| L.temulentum mRNA for histone H4
+
+Length=616
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+emb|X79715.1|  L.temulentum mRNA for histone H4                    1134    0.0   
+dbj|AK250965.1|  Hordeum vulgare subsp. vulgare cDNA clone: FL...  501     6e-138
+gb|BT009488.1|  Triticum aestivum clone wr1.pk0058.g3:fis, ful...  497     8e-137
+dbj|AK367515.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  496     3e-136
+dbj|AK358721.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  496     3e-136
+dbj|AK252467.1|  Hordeum vulgare subsp. vulgare cDNA clone: FL...  496     3e-136
+dbj|AK249511.1|  Hordeum vulgare subsp. vulgare cDNA clone: FL...  494     1e-135
+dbj|AK362933.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  490     1e-134
+dbj|AK249420.1|  Hordeum vulgare subsp. vulgare cDNA clone: FL...  490     1e-134
+dbj|AK251561.1|  Hordeum vulgare subsp. vulgare cDNA clone: FL...  490     1e-134
+gb|DQ245666.1|  Zea mays clone 18950 mRNA sequence                 490     1e-134
+dbj|AK359965.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  486     2e-133
+dbj|AK370604.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  486     2e-133
+dbj|AK248730.1|  Hordeum vulgare subsp. vulgare cDNA clone: FL...  486     2e-133
+dbj|AK373861.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  484     6e-133
+dbj|AK249046.1|  Hordeum vulgare subsp. vulgare cDNA clone: FL...  483     2e-132
+emb|HG670306.1|  Triticum aestivum chromosome 3B, genomic scaf...  479     3e-131
+dbj|AK362441.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  479     3e-131
+dbj|AK372135.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  479     3e-131
+dbj|AK359991.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  479     3e-131
+dbj|AK248992.1|  Hordeum vulgare subsp. vulgare cDNA clone: FL...  479     3e-131
+dbj|AK251417.1|  Hordeum vulgare subsp. vulgare cDNA clone: FL...  479     3e-131
+ref|XM_002468579.1|  Sorghum bicolor hypothetical protein, mRNA    477     1e-130
+dbj|AK249953.1|  Hordeum vulgare subsp. vulgare cDNA clone: FL...  477     1e-130
+emb|X00043.1|  Wheat histone H4 gene                               477     1e-130
+ref|XR_731093.1|  PREDICTED: Brachypodium distachyon uncharact...  475     4e-130
+dbj|AK439248.1|  Brachypodium distachyon mRNA, clone: PL016C01...  475     4e-130
+dbj|AK438561.1|  Brachypodium distachyon mRNA, clone: PL016C01...  475     4e-130
+dbj|AK357536.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  473     1e-129
+dbj|AK355359.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  473     1e-129
+dbj|AK355345.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  473     1e-129
+dbj|AK251478.1|  Hordeum vulgare subsp. vulgare cDNA clone: FL...  473     1e-129
+ref|XM_004961740.3|  PREDICTED: Setaria italica histone H4 (LO...  472     5e-129
+dbj|AP014961.1|  Oryza sativa Japonica Group DNA, chromosome 5...  470     2e-128
+gb|CP012613.1|  Oryza sativa Indica Group cultivar RP Bio-226 ...  470     2e-128
+ref|NM_001062304.1|  Oryza sativa Japonica Group Os05g0462700 ...  470     2e-128
+gb|AC108500.3|  Oryza sativa Japonica Group chromosome 5 clone...  470     2e-128
+gb|AC108876.2|  Oryza sativa Japonica Group chromosome 5 clone...  470     2e-128
+dbj|AK105816.1|  Oryza sativa Japonica Group cDNA clone:001-20...  470     2e-128
+emb|FP100423.1|  Phyllostachys edulis cDNA clone: bphyst002n22...  468     7e-128
+emb|FP095147.1|  Phyllostachys edulis cDNA clone: bphyst003c04...  468     7e-128
+emb|FP098025.1|  Phyllostachys edulis cDNA clone: bphylf060g20...  468     7e-128
+emb|FP097318.1|  Phyllostachys edulis cDNA clone: bphyst012o10...  468     7e-128
+emb|FP097061.1|  Phyllostachys edulis cDNA clone: bphyem002o03...  468     7e-128
+emb|FP101522.1|  Phyllostachys edulis cDNA clone: bphyst007k15...  468     7e-128
+dbj|AK373961.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  466     2e-127
+dbj|AK373146.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  466     2e-127
+ref|XM_004985892.3|  PREDICTED: Setaria italica histone H4 (LO...  464     8e-127
+ref|XM_003558906.2|  PREDICTED: Brachypodium distachyon histon...  464     8e-127
+ref|XM_002439887.1|  Sorghum bicolor hypothetical protein, mRNA    464     8e-127
+emb|CT833176.1|  Oryza sativa (indica cultivar-group) cDNA clo...  464     8e-127
+ref|NM_001062321.1|  Oryza sativa Japonica Group Os05g0466600 ...  464     8e-127
+gb|AC121361.3|  Oryza sativa Japonica Group chromosome 5 clone...  464     8e-127
+gb|AC108503.4|  Oryza sativa Japonica Group chromosome 5 clone...  464     8e-127
+dbj|AK362824.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  462     3e-126
+emb|FP100557.1|  Phyllostachys edulis cDNA clone: bphyst039c24...  462     3e-126
+emb|FP100393.1|  Phyllostachys edulis cDNA clone: bphyst002n11...  462     3e-126
+emb|FP091446.1|  Phyllostachys edulis cDNA clone: bphylf002c17...  462     3e-126
+emb|FP101651.1|  Phyllostachys edulis cDNA clone: bphyst006o02...  462     3e-126
+dbj|AK248915.1|  Hordeum vulgare subsp. vulgare cDNA clone: FL...  462     3e-126
+dbj|AK252102.1|  Hordeum vulgare subsp. vulgare cDNA clone: FL...  462     3e-126
+dbj|AP014960.1|  Oryza sativa Japonica Group DNA, chromosome 4...  459     4e-125
+dbj|AP014959.1|  Oryza sativa Japonica Group DNA, chromosome 3...  459     4e-125
+gb|CP012612.1|  Oryza sativa Indica Group cultivar RP Bio-226 ...  459     4e-125
+gb|CP012611.1|  Oryza sativa Indica Group cultivar RP Bio-226 ...  459     4e-125
+gb|BT131727.1|  Oryza sativa clone RRlibC00660 mRNA sequence       459     4e-125
+gb|BT130948.1|  Oryza sativa clone RRlibC00411 mRNA sequence       459     4e-125
+emb|FP098868.1|  Phyllostachys edulis cDNA clone: bbasst002k05...  459     4e-125
+emb|CT830547.1|  Oryza sativa (indica cultivar-group) cDNA clo...  459     4e-125
+ref|NM_001060199.1|  Oryza sativa Japonica Group Os04g0583600 ...  459     4e-125
+ref|NM_001055318.1|  Oryza sativa Japonica Group Os03g0119900 ...  459     4e-125
+emb|AL662987.3|  Oryza sativa genomic DNA, chromosome 4, BAC c...  459     4e-125
+gb|AC118980.2|  Oryza sativa Japonica Group chromosome 3 clone...  459     4e-125
+dbj|AK372202.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  457     1e-124
+dbj|AK371566.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  457     1e-124
+dbj|AK375070.1|  Hordeum vulgare subsp. vulgare mRNA for predi...  457     1e-124
+emb|FP097066.1|  Phyllostachys edulis cDNA clone: bphyem002o07...  457     1e-124
+emb|FP091250.1|  Phyllostachys edulis cDNA clone: bphyst002p19...  457     1e-124
+emb|FP096716.1|  Phyllostachys edulis cDNA clone: bbasst002h11...  457     1e-124
+emb|FP095479.1|  Phyllostachys edulis cDNA clone: bphyem003i13...  457     1e-124
+gb|BT068602.1|  Zea mays full-length cDNA clone ZM_BFb0355L17 ...  457     1e-124
+gb|AC233794.1|  Oryza minuta clone OM__Ba0207E07, complete seq...  457     1e-124
+gb|AC232897.1|  Oryza officinalis clone OO__Ba0105O20, complet...  457     1e-124
+ref|XM_004621933.2|  PREDICTED: Sorex araneus uncharacterized ...  455     5e-124
+ref|XM_009392233.1|  PREDICTED: Musa acuminata subsp. malaccen...  455     5e-124
+ref|XM_008652034.1|  PREDICTED: Zea mays histone H4 (LOC103631...  455     5e-124
+gb|EU976391.1|  Zea mays clone 881898 histone H4 mRNA, complet...  455     5e-124
+gb|EU965707.1|  Zea mays clone 288165 histone H4 mRNA, complet...  455     5e-124
+ref|XM_010232973.1|  PREDICTED: Brachypodium distachyon histon...  453     2e-123
+dbj|AK426353.1|  Brachypodium distachyon mRNA, clone: PL016C01...  453     2e-123
+dbj|AK437234.1|  Brachypodium distachyon mRNA, clone: PL016C01...  453     2e-123
+dbj|AK431677.1|  Brachypodium distachyon mRNA, clone: PL016C01...  453     2e-123
+gb|AC210486.3|  Oryza glaberrima clone OG_BBa0079C16, complete...  453     2e-123
+ref|XM_004973232.2|  PREDICTED: Setaria italica histone H4 (LO...  451     7e-123
+ref|XM_003578555.2|  PREDICTED: Brachypodium distachyon histon...  451     7e-123
+ref|XR_732084.1|  PREDICTED: Brachypodium distachyon histone H...  451     7e-123
+dbj|AK427359.1|  Brachypodium distachyon mRNA, clone: PL016C01...  451     7e-123
+dbj|AK427184.1|  Brachypodium distachyon mRNA, clone: PL016C01...  451     7e-123
+ref|XM_004621936.2|  PREDICTED: Sorex araneus histone H4 (LOC1...  449     2e-122
+ref|XM_008262527.1|  PREDICTED: Oryctolagus cuniculus uncharac...  449     2e-122
+
+ALIGNMENTS
+>emb|X79715.1| L.temulentum mRNA for histone H4
+Length=616
+
+ Score = 1134 bits (614),  Expect = 0.0
+ Identities = 616/616 (100%), Gaps = 0/616 (0%)
+ Strand=Plus/Plus
+
+Query  1    CATCCCACTCTCCCTCAGCTCAGCTCAAACCAGCCACCTCTCGTCAGCCATGTCGGGCCG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    CATCCCACTCTCCCTCAGCTCAGCTCAAACCAGCCACCTCTCGTCAGCCATGTCGGGCCG  60
+
+Query  61   CGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGCAAGGTCCTCCG  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   CGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGCAAGGTCCTCCG  120
+
+Query  121  CGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGCCGCGGCGGCGT  180
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  121  CGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGCCGCGGCGGCGT  180
+
+Query  181  GAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAGATCTTCCTCGA  240
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  181  GAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAGATCTTCCTCGA  240
+
+Query  241  GAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAGACCGTCACCGC  300
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  241  GAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAGACCGTCACCGC  300
+
+Query  301  CATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGCTTCGGCGGCTA  360
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  301  CATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGCTTCGGCGGCTA  360
+
+Query  361  GAGGCCTCTCCTCCTCTTCGTCCGCCTAGAGTGCTCATGTAGTTCCTCATCTGGAGGTGT  420
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  361  GAGGCCTCTCCTCCTCTTCGTCCGCCTAGAGTGCTCATGTAGTTCCTCATCTGGAGGTGT  420
+
+Query  421  AGAGATGTTGTTACCTTCTTCCAGTGAGTGCGTGCCGGAATCTAGTAGGTGTGGTAGGTG  480
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  421  AGAGATGTTGTTACCTTCTTCCAGTGAGTGCGTGCCGGAATCTAGTAGGTGTGGTAGGTG  480
+
+Query  481  TTCTTGTTCGTGCTCTCATGCATTGTGTTAGTTTCTGTTCGTGTCTGATGTTACCCGCTT  540
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  481  TTCTTGTTCGTGCTCTCATGCATTGTGTTAGTTTCTGTTCGTGTCTGATGTTACCCGCTT  540
+
+Query  541  GTTATTATCAGTAATGAAAATGTTGGCTACCAGGCGGCCGCGaaaaaaaaaaaaaaaaaa  600
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  541  GTTATTATCAGTAATGAAAATGTTGGCTACCAGGCGGCCGCGAAAAAAAAAAAAAAAAAA  600
+
+Query  601  aaaaaaaaaaaaaaaa  616
+            ||||||||||||||||
+Sbjct  601  AAAAAAAAAAAAAAAA  616
+
+
+>dbj|AK250965.1| Hordeum vulgare subsp. vulgare cDNA clone: FLbaf103p23, mRNA 
+sequence
+Length=653
+
+ Score = 501 bits (271),  Expect = 6e-138
+ Identities = 304/321 (95%), Gaps = 0/321 (0%)
+ Strand=Plus/Plus
+
+Query  41   TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+            |||||||||||||| || |||||||||||||| |||||||||||||||||||||||||||
+Sbjct  72   TCGTCAGCCATGTCCGGGCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAG  131
+
+Query  101  CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+            |||||||| ||||| || |||||||||||||||||||||||||||||||| ||||| || 
+Sbjct  132  CGCCACCGGAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGG  191
+
+Query  161  CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+            ||||||||||| |||||||||||||||||||| ||||||||||||||||||||||| |||
+Sbjct  192  CTGGCTCGCCGTGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGC  251
+
+Query  221  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  252  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  311
+
+Query  281  SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+             |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| 
+Sbjct  312  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACC  371
+
+Query  341  CTCTACGGCTTCGGCGGCTAG  361
+            |||||||| ||||||||||||
+Sbjct  372  CTCTACGGATTCGGCGGCTAG  392
+
+
+>gb|BT009488.1| Triticum aestivum clone wr1.pk0058.g3:fis, full insert mRNA sequence
+Length=1768
+
+ Score = 497 bits (269),  Expect = 8e-137
+ Identities = 307/326 (94%), Gaps = 1/326 (0%)
+ Strand=Plus/Plus
+
+Query  41    TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+             |||||||||||||| ||||||||||||||||| |||||||||||||||||||||||||||
+Sbjct  1280  TCGTCAGCCATGTCCGGCCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAG  1339
+
+Query  101   CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+             |||||||| ||||| || |||||||||||||||||||||||||||||||| ||||| || 
+Sbjct  1340  CGCCACCGGAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGG  1399
+
+Query  161   CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+             ||||| || || |||||||||||||||||||| ||||||||||||||||||||||| |||
+Sbjct  1400  CTGGCGCGGCGGGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGC  1459
+
+Query  221   GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1460  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  1519
+
+Query  281   SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+              |||||||||||||||| ||||||||||| ||||||||||||||||||||||| ||||| 
+Sbjct  1520  CGCCGCAAGACCGTCACGGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACC  1579
+
+Query  341   CTCTACGGCTTCGGCGGCTAGAGGCC  366
+             ||||||||||||||||||||| ||||
+Sbjct  1580  CTCTACGGCTTCGGCGGCTAG-GGCC  1604
+
+
+>dbj|AK367515.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv2058G03
+Length=560
+
+ Score = 496 bits (268),  Expect = 3e-136
+ Identities = 301/318 (95%), Gaps = 0/318 (0%)
+ Strand=Plus/Plus
+
+Query  42   CGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGC  101
+            ||||||||||||| ||||||||||||||||| ||||| ||||| ||||||||||||||||
+Sbjct  51   CGTCAGCCATGTCCGGCCGCGGCAAGGGAGGGAAGGGCCTCGGAAAGGGCGGCGCCAAGC  110
+
+Query  102  GCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCC  161
+            ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| |
+Sbjct  111  GCCACCGGAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGTC  170
+
+Query  162  TGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCG  221
+            |||| || || ||||||||||||||||||||||| || ||||||||||||||||| ||||
+Sbjct  171  TGGCCCGGCGTGGCGGCGTGAAGCGCATCTCCGGACTGATCTACGAGGAGACCCGCGGCG  230
+
+Query  222  TGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCS  281
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 
+Sbjct  231  TGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCC  290
+
+Query  282  GCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTC  341
+            |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| |
+Sbjct  291  GCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCC  350
+
+Query  342  TCTACGGCTTCGGCGGCT  359
+            ||||||| ||||||||||
+Sbjct  351  TCTACGGATTCGGCGGCT  368
+
+
+>dbj|AK358721.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv1082B16
+Length=561
+
+ Score = 496 bits (268),  Expect = 3e-136
+ Identities = 297/312 (95%), Gaps = 0/312 (0%)
+ Strand=Plus/Plus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            ||||||||||| ||||||||||||||||||||||| ||||||||||||||||||||||| 
+Sbjct  66   ATGTCGGGCCGTGGCAAGGGAGGAAAGGGGCTCGGAAAGGGCGGCGCCAAGCGCCACCGG  125
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            ||||| || |||||||||||||||||||||||||||||||||||||| |||||||| |||
+Sbjct  126  AAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGTCGCCTGGCGCGC  185
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+            ||||||||||||||||||||||| ||||||||||||||||||||||| ||||||||||||
+Sbjct  186  CGCGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCGTGCTCAAG  245
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+            ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  246  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  305
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            |||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||||| 
+Sbjct  306  ACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTACGGT  365
+
+Query  350  TTCGGCGGCTAG  361
+            |||||||| |||
+Sbjct  366  TTCGGCGGTTAG  377
+
+
+>dbj|AK252467.1| Hordeum vulgare subsp. vulgare cDNA clone: FLbaf159b21, mRNA 
+sequence
+Length=575
+
+ Score = 496 bits (268),  Expect = 3e-136
+ Identities = 297/312 (95%), Gaps = 0/312 (0%)
+ Strand=Plus/Plus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            ||||||||||| ||||||||||||||||||||||| ||||||||||||||||||||||| 
+Sbjct  69   ATGTCGGGCCGTGGCAAGGGAGGAAAGGGGCTCGGAAAGGGCGGCGCCAAGCGCCACCGG  128
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            ||||| || |||||||||||||||||||||||||||||||||||||| |||||||| |||
+Sbjct  129  AAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGTCGCCTGGCGCGC  188
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+            ||||||||||||||||||||||| ||||||||||||||||||||||| ||||||||||||
+Sbjct  189  CGCGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCGTGCTCAAG  248
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+            ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  249  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  308
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            |||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||||| 
+Sbjct  309  ACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTACGGT  368
+
+Query  350  TTCGGCGGCTAG  361
+            |||||||| |||
+Sbjct  369  TTCGGCGGTTAG  380
+
+
+>dbj|AK249511.1| Hordeum vulgare subsp. vulgare cDNA clone: FLbaf39c08, mRNA sequence
+Length=1281
+
+ Score = 494 bits (267),  Expect = 1e-135
+ Identities = 294/308 (95%), Gaps = 0/308 (0%)
+ Strand=Plus/Plus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            ||||||||||| ||||||||||||||||||||||| ||||||||||||||||||||||| 
+Sbjct  72   ATGTCGGGCCGTGGCAAGGGAGGAAAGGGGCTCGGAAAGGGCGGCGCCAAGCGCCACCGG  131
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            ||||| || |||||||||||||||||||||||||||||||||||||| |||||||| |||
+Sbjct  132  AAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGTCGCCTGGCGCGC  191
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+            ||||||||||||||||||||||| ||||||||||||||||||||||| ||||||||||||
+Sbjct  192  CGCGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCGTGCTCAAG  251
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+            ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  252  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  311
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            |||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||||| 
+Sbjct  312  ACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTACGGT  371
+
+Query  350  TTCGGCGG  357
+            ||||||||
+Sbjct  372  TTCGGCGG  379
+
+
+>dbj|AK362933.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv2011F23
+Length=559
+
+ Score = 490 bits (265),  Expect = 1e-134
+ Identities = 296/312 (95%), Gaps = 0/312 (0%)
+ Strand=Plus/Plus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            ||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| 
+Sbjct  64   ATGTCGGGCCGCGGCAAGGGAGGCAAGGGGCTGGGCAAGGGCGGCGCCAAGCGCCACCGG  123
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            ||||| ||||||||||||||||||||||||||||||||||| ||||| |||||||| || 
+Sbjct  124  AAGGTGCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGGCGCGT  183
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+            ||||||||||||||||||||||| ||||||||||||||||||||||| ||||||||||||
+Sbjct  184  CGCGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCGTGCTCAAG  243
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+            ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  244  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  303
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            |||||||||||||||||||| |||||||| |||||||||||||| ||||| |||||||||
+Sbjct  304  ACCGTCACCGCCATGGACGTCGTCTACGCCCTCAAGCGCCAGGGACGCACCCTCTACGGC  363
+
+Query  350  TTCGGCGGCTAG  361
+            ||||| ||||||
+Sbjct  364  TTCGGAGGCTAG  375
+
+
+>dbj|AK249420.1| Hordeum vulgare subsp. vulgare cDNA clone: FLbaf26g01, mRNA sequence
+Length=638
+
+ Score = 490 bits (265),  Expect = 1e-134
+ Identities = 300/318 (94%), Gaps = 0/318 (0%)
+ Strand=Plus/Plus
+
+Query  42   CGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGC  101
+            ||||||||||||| ||||||||||||||||| ||||| ||||||||||||||||||||||
+Sbjct  65   CGTCAGCCATGTCCGGCCGCGGCAAGGGAGGGAAGGGCCTCGGCAAGGGCGGCGCCAAGC  124
+
+Query  102  GCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCC  161
+            ||||||| ||||||||||||||||||||||||||||||||||||||||||||||| ||  
+Sbjct  125  GCCACCGGAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGGCGTT  184
+
+Query  162  TGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCG  221
+            |||| || || |||||||||||||||||||| ||||||||||||||||||||||| ||||
+Sbjct  185  TGGCCCGGCGTGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCG  244
+
+Query  222  TGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCS  281
+            |||||||||||||||| |||||||||||||||||||||||||||||||||||||||||| 
+Sbjct  245  TGCTCAAGATCTTCCTGGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCC  304
+
+Query  282  GCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTC  341
+            |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| |
+Sbjct  305  GCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCC  364
+
+Query  342  TCTACGGCTTCGGCGGCT  359
+            ||||||| ||||||||||
+Sbjct  365  TCTACGGATTCGGCGGCT  382
+
+
+>dbj|AK251561.1| Hordeum vulgare subsp. vulgare cDNA clone: FLbaf128j19, mRNA 
+sequence
+Length=574
+
+ Score = 490 bits (265),  Expect = 1e-134
+ Identities = 296/312 (95%), Gaps = 0/312 (0%)
+ Strand=Plus/Plus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            ||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| 
+Sbjct  67   ATGTCGGGCCGCGGCAAGGGAGGCAAGGGGCTGGGCAAGGGCGGCGCCAAGCGCCACCGG  126
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            ||||| ||||||||||||||||||||||||||||||||||| ||||| |||||||| || 
+Sbjct  127  AAGGTGCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGGCGCGT  186
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+            ||||||||||||||||||||||| ||||||||||||||||||||||| ||||||||||||
+Sbjct  187  CGCGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCGTGCTCAAG  246
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+            ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  247  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  306
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            |||||||||||||||||||| |||||||| |||||||||||||| ||||| |||||||||
+Sbjct  307  ACCGTCACCGCCATGGACGTCGTCTACGCCCTCAAGCGCCAGGGACGCACCCTCTACGGC  366
+
+Query  350  TTCGGCGGCTAG  361
+            ||||| ||||||
+Sbjct  367  TTCGGAGGCTAG  378
+
+
+>gb|DQ245666.1| Zea mays clone 18950 mRNA sequence
+Length=598
+
+ Score = 490 bits (265),  Expect = 1e-134
+ Identities = 296/312 (95%), Gaps = 0/312 (0%)
+ Strand=Plus/Plus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            ||||||||||||||||||||||| ||||||||||||||||||||||| ||||||||||| 
+Sbjct  66   ATGTCGGGCCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCGAAGCGCCACCGG  125
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            ||||| ||||||||||||||||||||||||||||||||||| ||||| || ||||| |||
+Sbjct  126  AAGGTGCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGGCTGGCGCGC  185
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+             | |||||||||||||||||||| ||||||||||||||||||||||| ||||||||||||
+Sbjct  186  AGGGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCGTGCTCAAG  245
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+            ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  246  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  305
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            |||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||||||
+Sbjct  306  ACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTACGGC  365
+
+Query  350  TTCGGCGGCTAG  361
+            ||||||||||||
+Sbjct  366  TTCGGCGGCTAG  377
+
+
+>dbj|AK359965.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv1107I04
+Length=513
+
+ Score = 486 bits (263),  Expect = 2e-133
+ Identities = 305/326 (94%), Gaps = 1/326 (0%)
+ Strand=Plus/Plus
+
+Query  41   TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+            |||||||||||||| ||||||||||||||||| |||||||||||||||||||| ||||||
+Sbjct  64   TCGTCAGCCATGTCCGGCCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGAGCCAAG  123
+
+Query  101  CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+            |||||| | ||||| ||||||||||||||||||||||||||||||||||| ||||| || 
+Sbjct  124  CGCCACAGGAAGGTGCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGT  183
+
+Query  161  CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+            ||||| ||  | |||||||||||||||||||| ||||||||||||||||||||||| |||
+Sbjct  184  CTGGCGCGGAGGGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGC  243
+
+Query  221  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  244  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  303
+
+Query  281  SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+             |||||||||||||||||||||||||||| |||||||| |||||||||||||| ||||| 
+Sbjct  304  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCCCTCAAGCGCCAGGGCCGCACC  363
+
+Query  341  CTCTACGGCTTCGGCGGCTAGAGGCC  366
+            ||||||||||||||||||||| ||||
+Sbjct  364  CTCTACGGCTTCGGCGGCTAG-GGCC  388
+
+
+>dbj|AK370604.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv2113B17
+Length=702
+
+ Score = 486 bits (263),  Expect = 2e-133
+ Identities = 305/326 (94%), Gaps = 1/326 (0%)
+ Strand=Plus/Plus
+
+Query  41   TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+            |||||||||||||| ||||||||||||||||| |||||||||||||||||||| ||||||
+Sbjct  67   TCGTCAGCCATGTCCGGCCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGAGCCAAG  126
+
+Query  101  CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+            |||||| | ||||| ||||||||||||||||||||||||||||||||||| ||||| || 
+Sbjct  127  CGCCACAGGAAGGTGCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGT  186
+
+Query  161  CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+            ||||| ||  | |||||||||||||||||||| ||||||||||||||||||||||| |||
+Sbjct  187  CTGGCGCGGAGGGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGC  246
+
+Query  221  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  247  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  306
+
+Query  281  SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+             |||||||||||||||||||||||||||| |||||||| |||||||||||||| ||||| 
+Sbjct  307  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCCCTCAAGCGCCAGGGCCGCACC  366
+
+Query  341  CTCTACGGCTTCGGCGGCTAGAGGCC  366
+            ||||||||||||||||||||| ||||
+Sbjct  367  CTCTACGGCTTCGGCGGCTAG-GGCC  391
+
+
+>dbj|AK248730.1| Hordeum vulgare subsp. vulgare cDNA clone: FLbaf2h03, mRNA sequence
+Length=531
+
+ Score = 486 bits (263),  Expect = 2e-133
+ Identities = 305/326 (94%), Gaps = 1/326 (0%)
+ Strand=Plus/Plus
+
+Query  41   TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+            |||||||||||||| || |||||||||||||| |||||||||||||||||||||||||||
+Sbjct  47   TCGTCAGCCATGTCCGGGCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAG  106
+
+Query  101  CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+            |||||| | |||||||| |||||||||||||||||||||||||||||||| ||||| || 
+Sbjct  107  CGCCACAGGAAGGTCCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGG  166
+
+Query  161  CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+            ||||| ||  | |||||||||||||||||||| ||||||||||||||||||||||| |||
+Sbjct  167  CTGGCGCGGAGGGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGC  226
+
+Query  221  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  227  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  286
+
+Query  281  SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+             | |||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| 
+Sbjct  287  CGTCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACC  346
+
+Query  341  CTCTACGGCTTCGGCGGCTAGAGGCC  366
+            ||||||||||||||||||||| ||||
+Sbjct  347  CTCTACGGCTTCGGCGGCTAG-GGCC  371
+
+
+>dbj|AK373861.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv3045N01
+Length=556
+
+ Score = 484 bits (262),  Expect = 6e-133
+ Identities = 299/318 (94%), Gaps = 0/318 (0%)
+ Strand=Plus/Plus
+
+Query  42   CGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGC  101
+            ||||||||||||| || |||||||||||||| ||||| || |||||||||||||||||||
+Sbjct  44   CGTCAGCCATGTCCGGTCGCGGCAAGGGAGGGAAGGGCCTTGGCAAGGGCGGCGCCAAGC  103
+
+Query  102  GCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCC  161
+            ||||||| ||||| || |||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  104  GCCACCGGAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGGCGCC  163
+
+Query  162  TGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCG  221
+            |||||||||| |||||||||||||||||||| ||||| ||||||||||||||||| ||||
+Sbjct  164  TGGCTCGCCGGGGCGGCGTGAAGCGCATCTCGGGGCTGATCTACGAGGAGACCCGCGGCG  223
+
+Query  222  TGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCS  281
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 
+Sbjct  224  TGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCC  283
+
+Query  282  GCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTC  341
+            |||||||||||||||||||||||||||| |||||||| |||||||||||||| ||||| |
+Sbjct  284  GCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCCCTCAAGCGCCAGGGACGCACCC  343
+
+Query  342  TCTACGGCTTCGGCGGCT  359
+            ||||||| ||||||||||
+Sbjct  344  TCTACGGATTCGGCGGCT  361
+
+
+>dbj|AK249046.1| Hordeum vulgare subsp. vulgare cDNA clone: FLbaf15o02, mRNA sequence
+Length=588
+
+ Score = 483 bits (261),  Expect = 2e-132
+ Identities = 300/320 (94%), Gaps = 0/320 (0%)
+ Strand=Plus/Plus
+
+Query  42   CGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGC  101
+            ||||| ||||||| ||||||||||||||||| |||||||| |||||||| ||||||||||
+Sbjct  65   CGTCAACCATGTCTGGCCGCGGCAAGGGAGGTAAGGGGCTGGGCAAGGGTGGCGCCAAGC  124
+
+Query  102  GCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCC  161
+            ||||||| ||||| ||||||||||||||||||||||||||||||||||||||||| || |
+Sbjct  125  GCCACCGGAAGGTGCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGTCGTC  184
+
+Query  162  TGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCG  221
+            |||||||||| |||||||||||||||||||| ||||||||||||||||||||||| ||||
+Sbjct  185  TGGCTCGCCGTGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCG  244
+
+Query  222  TGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCS  281
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 
+Sbjct  245  TGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCC  304
+
+Query  282  GCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTC  341
+            |||||||||||||||||||||||||||| |||||||| |||||||| ||||| || || |
+Sbjct  305  GCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCCCTCAAGCGGCAGGGGCGAACCC  364
+
+Query  342  TCTACGGCTTCGGCGGCTAG  361
+            ||||||| ||||||||||||
+Sbjct  365  TCTACGGATTCGGCGGCTAG  384
+
+
+>emb|HG670306.1| Triticum aestivum chromosome 3B, genomic scaffold, cultivar Chinese 
+Spring
+Length=774434471
+
+ Features in this part of subject sequence:
+   unnamed protein product
+
+ Score = 479 bits (259),  Expect = 3e-131
+ Identities = 301/322 (93%), Gaps = 1/322 (0%)
+ Strand=Plus/Minus
+
+Query  45         CAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+                  |||||||||| || |||||||||||||| ||||| |||||||||||||||||||||||||
+Sbjct  176404377  CAGCCATGTCCGGGCGCGGCAAGGGAGGCAAGGGTCTCGGCAAGGGCGGCGCCAAGCGCC  176404318
+
+Query  105        ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+                  || | ||||| || |||||||||||||||||||||||||||||||| ||||| |||||||
+Sbjct  176404317  ACAGGAAGGTTCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGG  176404258
+
+Query  165        CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+                  | ||  | ||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  176404257  CGCGGAGGGGCGGCGTGAAGCGCATCTCCGGCCTCATCTACGAGGAGACCCGCGGCGTGC  176404198
+
+Query  225        TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+                  |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  176404197  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCC  176404138
+
+Query  285        GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+                  ||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| ||||
+Sbjct  176404137  GCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCT  176404078
+
+Query  345        ACGGCTTCGGCGGCTAGAGGCC  366
+                  ||||||||||||||||| ||||
+Sbjct  176404077  ACGGCTTCGGCGGCTAG-GGCC  176404057
+
+
+ Features in this part of subject sequence:
+   unnamed protein product
+
+ Score = 462 bits (250),  Expect = 3e-126
+ Identities = 293/315 (93%), Gaps = 0/315 (0%)
+ Strand=Plus/Plus
+
+Query  45         CAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+                  ||||||||||||| || |||||||| || ||||||||||||||||| ||||| |||||||
+Sbjct  585614473  CAGCCATGTCGGGGCGTGGCAAGGGCGGCAAGGGGCTCGGCAAGGGAGGCGCGAAGCGCC  585614532
+
+Query  105        ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+                  |||||||||||||||||||||||||||||||||||||||||||||| |||||  | || |
+Sbjct  585614533  ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGAGGCTTG  585614592
+
+Query  165        CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+                  | ||  | |||||||||||||||||||| ||||||||||||||||||||||| |||||||
+Sbjct  585614593  CCCGGAGGGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCGTGC  585614652
+
+Query  225        TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+                  |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  585614653  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCC  585614712
+
+Query  285        GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+                  ||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| || |
+Sbjct  585614713  GCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTGT  585614772
+
+Query  345        ACGGCTTCGGCGGCT  359
+                  |||||||||||||||
+Sbjct  585614773  ACGGCTTCGGCGGCT  585614787
+
+
+>dbj|AK362441.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv2005F09
+Length=654
+
+ Score = 479 bits (259),  Expect = 3e-131
+ Identities = 300/321 (93%), Gaps = 0/321 (0%)
+ Strand=Plus/Plus
+
+Query  41   TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+            |||||||||||||| || |||||||||||||| |||||||||||||||||||||||||||
+Sbjct  66   TCGTCAGCCATGTCCGGGCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAG  125
+
+Query  101  CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+            |||||| | ||||| || |||||||||||||||||||||||||||||||| ||||| || 
+Sbjct  126  CGCCACAGGAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGT  185
+
+Query  161  CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+            ||||| ||||| |||||||||||||||||||| ||||||||||||||||||||||| |||
+Sbjct  186  CTGGCGCGCCGTGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGC  245
+
+Query  221  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  246  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  305
+
+Query  281  SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+             |||||||||||||||||||||||||||| |||||||| ||||| |||||||| ||||| 
+Sbjct  306  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCACTCAAACGCCAGGGCCGCACC  365
+
+Query  341  CTCTACGGCTTCGGCGGCTAG  361
+            |||||||| ||||||||||||
+Sbjct  366  CTCTACGGATTCGGCGGCTAG  386
+
+
+>dbj|AK372135.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv2146P16
+Length=1641
+
+ Score = 479 bits (259),  Expect = 3e-131
+ Identities = 294/312 (94%), Gaps = 0/312 (0%)
+ Strand=Plus/Plus
+
+Query  50    ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+             ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| 
+Sbjct  1212  ATGTCGGGCCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGG  1271
+
+Query  110   AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+             ||||| ||||| ||||||||||||||||||||||||||||||||||| || || || |||
+Sbjct  1272  AAGGTGCTCCGGGACAACATCCAGGGCATCACCAAGCCGGCCATCCGTCGTCTCGCGCGC  1331
+
+Query  170   CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+              | |||||||||||||||||||| ||||||||||||||||||||||| ||||||||||||
+Sbjct  1332  AGGGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCGTGCTCAAG  1391
+
+Query  230   ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+             ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  1392  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  1451
+
+Query  290   ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+             |||||||||||||||||||| |||||||| |||||||||||||| ||||| |||||||||
+Sbjct  1452  ACCGTCACCGCCATGGACGTCGTCTACGCACTCAAGCGCCAGGGACGCACCCTCTACGGC  1511
+
+Query  350   TTCGGCGGCTAG  361
+             ||||| ||||||
+Sbjct  1512  TTCGGAGGCTAG  1523
+
+
+>dbj|AK359991.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv1108A05
+Length=534
+
+ Score = 479 bits (259),  Expect = 3e-131
+ Identities = 300/321 (93%), Gaps = 0/321 (0%)
+ Strand=Plus/Plus
+
+Query  41   TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+            |||||||||||||| || |||||||||||||| ||||| |||||||||||||||||||||
+Sbjct  58   TCGTCAGCCATGTCCGGGCGCGGCAAGGGAGGCAAGGGTCTCGGCAAGGGCGGCGCCAAG  117
+
+Query  101  CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+            |||||||| ||||| || |||||||||||||||||||||||||||||||||||||| |||
+Sbjct  118  CGCCACCGGAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGTCGC  177
+
+Query  161  CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+            |||||  |  | |||||||||||||||||||| ||||||||||||||||||||||| |||
+Sbjct  178  CTGGCGAGGAGGGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGC  237
+
+Query  221  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+            || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  238  GTCCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  297
+
+Query  281  SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+             |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| 
+Sbjct  298  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGACGCACC  357
+
+Query  341  CTCTACGGCTTCGGCGGCTAG  361
+            |||||||| ||||||||||||
+Sbjct  358  CTCTACGGATTCGGCGGCTAG  378
+
+
+>dbj|AK248992.1| Hordeum vulgare subsp. vulgare cDNA clone: FLbaf20o04, mRNA sequence
+Length=513
+
+ Score = 479 bits (259),  Expect = 3e-131
+ Identities = 294/312 (94%), Gaps = 0/312 (0%)
+ Strand=Plus/Plus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| 
+Sbjct  69   ATGTCGGGCCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGG  128
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            ||||| ||||| ||||||||||||||||||||||||||||||||||| || || || |||
+Sbjct  129  AAGGTGCTCCGGGACAACATCCAGGGCATCACCAAGCCGGCCATCCGTCGTCTCGCGCGC  188
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+             | |||||||||||||||||||| ||||||||||||||||||||||| ||||||||||||
+Sbjct  189  AGGGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCGTGCTCAAG  248
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+            ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  249  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  308
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            |||||||||||||||||||| |||||||| |||||||||||||| ||||| |||||||||
+Sbjct  309  ACCGTCACCGCCATGGACGTCGTCTACGCACTCAAGCGCCAGGGACGCACCCTCTACGGC  368
+
+Query  350  TTCGGCGGCTAG  361
+            ||||| ||||||
+Sbjct  369  TTCGGAGGCTAG  380
+
+
+>dbj|AK251417.1| Hordeum vulgare subsp. vulgare cDNA clone: FLbaf113m22, mRNA 
+sequence
+Length=536
+
+ Score = 479 bits (259),  Expect = 3e-131
+ Identities = 300/321 (93%), Gaps = 0/321 (0%)
+ Strand=Plus/Plus
+
+Query  41   TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+            |||||||||||||| || |||||||||||||| ||||| || ||||||||||||||||||
+Sbjct  73   TCGTCAGCCATGTCCGGGCGCGGCAAGGGAGGCAAGGGTCTGGGCAAGGGCGGCGCCAAG  132
+
+Query  101  CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+            |||||||| ||||| || |||||||||||||||||||||||||||||||||||||| |||
+Sbjct  133  CGCCACCGGAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGTCGC  192
+
+Query  161  CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+            |||||  |  | |||||||||||||||||||| ||||||||||||||||||||||| |||
+Sbjct  193  CTGGCGAGGAGGGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGC  252
+
+Query  221  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  253  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  312
+
+Query  281  SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+             |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| 
+Sbjct  313  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGACGCACC  372
+
+Query  341  CTCTACGGCTTCGGCGGCTAG  361
+            |||||||| ||||||||||||
+Sbjct  373  CTCTACGGATTCGGCGGCTAG  393
+
+
+>ref|XM_002468579.1| Sorghum bicolor hypothetical protein, mRNA
+Length=585
+
+ Score = 477 bits (258),  Expect = 1e-130
+ Identities = 300/321 (93%), Gaps = 1/321 (0%)
+ Strand=Plus/Plus
+
+Query  40   CTCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAA  99
+            ||| ||||||||||||||||||||||||||||| ||||| || |||||||||||||| ||
+Sbjct  62   CTC-TCAGCCATGTCGGGCCGCGGCAAGGGAGGCAAGGGTCTGGGCAAGGGCGGCGCGAA  120
+
+Query  100  GCGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCG  159
+            ||||||||||||||| |||||||||||||||||||||||||| |||||||| |||||  |
+Sbjct  121  GCGCCACCGCAAGGTGCTCCGCGACAACATCCAGGGCATCACGAAGCCGGCGATCCGGAG  180
+
+Query  160  CCTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGG  219
+             ||||| ||| | |||||||||||||||||||||||||||||||||||||||||||| ||
+Sbjct  181  GCTGGCGCGCAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGG  240
+
+Query  220  CGTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGC  279
+            ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  241  CGTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGC  300
+
+Query  280  CSGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCAC  339
+            | |||||||||||||||||||||||||||| ||||||||||||||||||||||| |||||
+Sbjct  301  CCGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCAC  360
+
+Query  340  TCTCTACGGCTTCGGCGGCTA  360
+             |||||||| |||||||||||
+Sbjct  361  CCTCTACGGTTTCGGCGGCTA  381
+
+
+>dbj|AK249953.1| Hordeum vulgare subsp. vulgare cDNA clone: FLbaf51f02, mRNA sequence
+Length=567
+
+ Score = 477 bits (258),  Expect = 1e-130
+ Identities = 299/320 (93%), Gaps = 0/320 (0%)
+ Strand=Plus/Plus
+
+Query  42   CGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGC  101
+            ||||||||||||| || ||||| |||||||| ||||||||||||||||||||||||||||
+Sbjct  63   CGTCAGCCATGTCCGGGCGCGGTAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAGC  122
+
+Query  102  GCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCC  161
+            ||||| | ||||| || || ||||||||||||||||||||||||||||| ||||| ||||
+Sbjct  123  GCCACAGGAAGGTGCTGCGAGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCC  182
+
+Query  162  TGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCG  221
+            |||| ||| | |||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  183  TGGCGCGCAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCG  242
+
+Query  222  TGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCS  281
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 
+Sbjct  243  TGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCC  302
+
+Query  282  GCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTC  341
+            |||||||||||||||||||||||||||| || |||||||||||||||||||| ||||| |
+Sbjct  303  GCCGCAAGACCGTCACCGCCATGGACGTCGTGTACGCGCTCAAGCGCCAGGGCCGCACCC  362
+
+Query  342  TCTACGGCTTCGGCGGCTAG  361
+            ||||||| ||||||||||||
+Sbjct  363  TCTACGGATTCGGCGGCTAG  382
+
+
+>emb|X00043.1| Wheat histone H4 gene
+Length=1200
+
+ Score = 477 bits (258),  Expect = 1e-130
+ Identities = 302/324 (93%), Gaps = 1/324 (0%)
+ Strand=Plus/Plus
+
+Query  41    TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+             ||||| |||||||| || |||||||||||||| ||||| || ||||||||||||||||||
+Sbjct  727   TCGTCGGCCATGTCCGGGCGCGGCAAGGGAGGCAAGGGCCTAGGCAAGGGCGGCGCCAAG  786
+
+Query  101   CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+             |||||||| |||||||||||||| |||||||||||||||||||||||||| ||||| || 
+Sbjct  787   CGCCACCGGAAGGTCCTCCGCGATAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGG  846
+
+Query  161   CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+             ||||| || || |||||||||||||||||||| ||||||||||||||||||||||| |||
+Sbjct  847   CTGGCGCGGCGGGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGC  906
+
+Query  221   GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+             ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||
+Sbjct  907   GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGATGCCGTCACCTACACCGAGCACGCC  966
+
+Query  281   SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+              |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| 
+Sbjct  967   CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACC  1026
+
+Query  341   CTCTACGGCTTCGGCGGCTAGAGG  364
+             |||||||||||||||||||| |||
+Sbjct  1027  CTCTACGGCTTCGGCGGCTA-AGG  1049
+
+
+>ref|XR_731093.1| PREDICTED: Brachypodium distachyon uncharacterized LOC100833573 
+(LOC100833573), misc_RNA
+Length=1837
+
+ Score = 475 bits (257),  Expect = 4e-130
+ Identities = 296/316 (94%), Gaps = 0/316 (0%)
+ Strand=Plus/Plus
+
+Query  45    CAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+             |||||||||| ||||||||||||||||| |||||||||||||||||||||||||||||||
+Sbjct  1334  CAGCCATGTCTGGCCGCGGCAAGGGAGGGAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  1393
+
+Query  105   ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+             || | ||||||||||||||||||||||||||||||||||||||||| ||||| |||||||
+Sbjct  1394  ACAGGAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGG  1453
+
+Query  165   CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+             |  |  | |||||||||||||||||||||||||||||||||||||||||||| ||||| |
+Sbjct  1454  CGAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTCC  1513
+
+Query  225   TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||
+Sbjct  1514  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCGCGCC  1573
+
+Query  285   GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+             | ||||||||||||||||||||||| |||||||| |||||||||||||| ||||| ||||
+Sbjct  1574  GTAAGACCGTCACCGCCATGGACGTCGTCTACGCCCTCAAGCGCCAGGGCCGCACCCTCT  1633
+
+Query  345   ACGGCTTCGGCGGCTA  360
+             ||||||||||||||||
+Sbjct  1634  ACGGCTTCGGCGGCTA  1649
+
+
+ Score = 453 bits (245),  Expect = 2e-123
+ Identities = 292/316 (92%), Gaps = 0/316 (0%)
+ Strand=Plus/Plus
+
+Query  45   CAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+            |||||||||| || || || |||||||| |||||||||||||||||||||||||||||||
+Sbjct  74   CAGCCATGTCCGGGCGAGGGAAGGGAGGTAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  133
+
+Query  105  ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+            |||| ||||| || |||||||||||||||||||||||||||||||| ||||| |||||||
+Sbjct  134  ACCGGAAGGTGCTACGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGG  193
+
+Query  165  CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+            |  |  | |||||||||||||||||||||||||| ||||||||||||||||| ||||| |
+Sbjct  194  CGAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTAATCTACGAGGAGACCCGCGGCGTCC  253
+
+Query  225  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+            ||||||||||||||||||||||||||||||||||||| |||||||||||||||||| |||
+Sbjct  254  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTTACCTACACCGAGCACGCCCGCC  313
+
+Query  285  GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+            ||||||||||||||||||||||||| |||||||| |||||||||||||| ||||| ||||
+Sbjct  314  GCAAGACCGTCACCGCCATGGACGTTGTCTACGCCCTCAAGCGCCAGGGCCGCACCCTCT  373
+
+Query  345  ACGGCTTCGGCGGCTA  360
+            ||||||||||||||||
+Sbjct  374  ACGGCTTCGGCGGCTA  389
+
+
+>dbj|AK439248.1| Brachypodium distachyon mRNA, clone: PL016C01-A-097_O24
+Length=567
+
+ Score = 475 bits (257),  Expect = 4e-130
+ Identities = 296/316 (94%), Gaps = 0/316 (0%)
+ Strand=Plus/Plus
+
+Query  45   CAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+            |||||||||| ||||||||||||||||| |||||||||||||||||||||||||||||||
+Sbjct  69   CAGCCATGTCTGGCCGCGGCAAGGGAGGGAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  128
+
+Query  105  ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+            || | ||||||||||||||||||||||||||||||||||||||||| ||||| |||||||
+Sbjct  129  ACAGGAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGG  188
+
+Query  165  CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+            |  |  | |||||||||||||||||||||||||||||||||||||||||||| ||||| |
+Sbjct  189  CGAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTCC  248
+
+Query  225  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||
+Sbjct  249  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCGCGCC  308
+
+Query  285  GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+            | ||||||||||||||||||||||| |||||||| |||||||||||||| ||||| ||||
+Sbjct  309  GTAAGACCGTCACCGCCATGGACGTCGTCTACGCCCTCAAGCGCCAGGGCCGCACCCTCT  368
+
+Query  345  ACGGCTTCGGCGGCTA  360
+            ||||||||||||||||
+Sbjct  369  ACGGCTTCGGCGGCTA  384
+
+
+>dbj|AK438561.1| Brachypodium distachyon mRNA, clone: PL016C01-A-093_J06
+Length=568
+
+ Score = 475 bits (257),  Expect = 4e-130
+ Identities = 296/316 (94%), Gaps = 0/316 (0%)
+ Strand=Plus/Plus
+
+Query  45   CAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+            |||||||||| ||||||||||||||||| |||||||||||||||||||||||||||||||
+Sbjct  70   CAGCCATGTCTGGCCGCGGCAAGGGAGGGAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  129
+
+Query  105  ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+            || | ||||||||||||||||||||||||||||||||||||||||| ||||| |||||||
+Sbjct  130  ACAGGAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGG  189
+
+Query  165  CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+            |  |  | |||||||||||||||||||||||||||||||||||||||||||| ||||| |
+Sbjct  190  CGAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTCC  249
+
+Query  225  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||
+Sbjct  250  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCGCGCC  309
+
+Query  285  GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+            | ||||||||||||||||||||||| |||||||| |||||||||||||| ||||| ||||
+Sbjct  310  GTAAGACCGTCACCGCCATGGACGTCGTCTACGCCCTCAAGCGCCAGGGCCGCACCCTCT  369
+
+Query  345  ACGGCTTCGGCGGCTA  360
+            ||||||||||||||||
+Sbjct  370  ACGGCTTCGGCGGCTA  385
+
+
+>dbj|AK357536.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv1055N24
+Length=689
+
+ Score = 473 bits (256),  Expect = 1e-129
+ Identities = 299/321 (93%), Gaps = 0/321 (0%)
+ Strand=Plus/Plus
+
+Query  41   TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+            ||||| |||||||| || |||||||||||||| ||||| |||||||||||||||||||||
+Sbjct  59   TCGTCGGCCATGTCCGGGCGCGGCAAGGGAGGCAAGGGTCTCGGCAAGGGCGGCGCCAAG  118
+
+Query  101  CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+            |||||||| ||||| || ||||||||||||||||||||||||||||| |||||||| |||
+Sbjct  119  CGCCACCGGAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCTGCCATCCGTCGC  178
+
+Query  161  CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+            |||||  |  | ||||||||||||||||||||||| |||||||||||||||||||| |||
+Sbjct  179  CTGGCGAGGAGGGGCGGCGTGAAGCGCATCTCCGGCCTCATCTACGAGGAGACCCGCGGC  238
+
+Query  221  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  239  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  298
+
+Query  281  SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+             |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| 
+Sbjct  299  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGACGCACC  358
+
+Query  341  CTCTACGGCTTCGGCGGCTAG  361
+            |||||||| ||||||||||||
+Sbjct  359  CTCTACGGATTCGGCGGCTAG  379
+
+
+>dbj|AK355359.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv1019K17
+Length=687
+
+ Score = 473 bits (256),  Expect = 1e-129
+ Identities = 295/315 (94%), Gaps = 0/315 (0%)
+ Strand=Plus/Plus
+
+Query  45   CAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+            ||||||||||||| ||||||||||| || ||||||||||||||||||||||| |||||||
+Sbjct  70   CAGCCATGTCGGGTCGCGGCAAGGGCGGCAAGGGGCTCGGCAAGGGCGGCGCGAAGCGCC  129
+
+Query  105  ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+            ||||||||||||| |||||||||||||||||||||||||||||||| |||||  | ||||
+Sbjct  130  ACCGCAAGGTCCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGAGGCTGG  189
+
+Query  165  CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+            | ||  | |||||||||||||||||||| ||||||||||||||||||||||| |||||||
+Sbjct  190  CCCGGAGGGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCGTGC  249
+
+Query  225  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  250  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCC  309
+
+Query  285  GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+            ||||||||||||||||||||||||| || |||||||||||||||||||| ||||| ||||
+Sbjct  310  GCAAGACCGTCACCGCCATGGACGTCGTGTACGCGCTCAAGCGCCAGGGCCGCACCCTCT  369
+
+Query  345  ACGGCTTCGGCGGCT  359
+            |||||||||||||||
+Sbjct  370  ACGGCTTCGGCGGCT  384
+
+
+>dbj|AK355345.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv1019H16
+Length=503
+
+ Score = 473 bits (256),  Expect = 1e-129
+ Identities = 293/312 (94%), Gaps = 0/312 (0%)
+ Strand=Plus/Plus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| 
+Sbjct  64   ATGTCGGGCCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGG  123
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            ||||| ||||| ||||||||||||||||||||||||||||||||||| || || || |||
+Sbjct  124  AAGGTGCTCCGGGACAACATCCAGGGCATCACCAAGCCGGCCATCCGTCGTCTCGCGCGC  183
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+             | |||||||||||||||||||| ||||||||||||||||||||||| ||||||||||||
+Sbjct  184  AGGGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGGGGCGTGCTCAAG  243
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+            ||||||||||||||||||||||||||||| ||||||||||||||||||||| ||||||||
+Sbjct  244  ATCTTCCTCGAGAACGTCATCCGCGACGCAGTCACCTACACCGAGCACGCCCGCCGCAAG  303
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            |||||||||||||||||||| |||||||| |||||||||||||| ||||| |||||||||
+Sbjct  304  ACCGTCACCGCCATGGACGTCGTCTACGCACTCAAGCGCCAGGGACGCACCCTCTACGGC  363
+
+Query  350  TTCGGCGGCTAG  361
+            ||||| ||||||
+Sbjct  364  TTCGGAGGCTAG  375
+
+
+>dbj|AK251478.1| Hordeum vulgare subsp. vulgare cDNA clone: FLbaf117i15, mRNA 
+sequence
+Length=681
+
+ Score = 473 bits (256),  Expect = 1e-129
+ Identities = 295/315 (94%), Gaps = 0/315 (0%)
+ Strand=Plus/Plus
+
+Query  45   CAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+            ||||||||||||| ||||||||||| || ||||||||||||||||||||||| |||||||
+Sbjct  70   CAGCCATGTCGGGTCGCGGCAAGGGCGGCAAGGGGCTCGGCAAGGGCGGCGCGAAGCGCC  129
+
+Query  105  ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+            ||||||||||||| |||||||||||||||||||||||||||||||| |||||  | ||||
+Sbjct  130  ACCGCAAGGTCCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGAGGCTGG  189
+
+Query  165  CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+            | ||  | |||||||||||||||||||| ||||||||||||||||||||||| |||||||
+Sbjct  190  CCCGGAGGGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCGTGC  249
+
+Query  225  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  250  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCC  309
+
+Query  285  GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+            ||||||||||||||||||||||||| || |||||||||||||||||||| ||||| ||||
+Sbjct  310  GCAAGACCGTCACCGCCATGGACGTCGTGTACGCGCTCAAGCGCCAGGGCCGCACCCTCT  369
+
+Query  345  ACGGCTTCGGCGGCT  359
+            |||||||||||||||
+Sbjct  370  ACGGCTTCGGCGGCT  384
+
+
+>ref|XM_004961740.3| PREDICTED: Setaria italica histone H4 (LOC101764840), mRNA
+Length=661
+
+ Score = 472 bits (255),  Expect = 5e-129
+ Identities = 296/317 (93%), Gaps = 0/317 (0%)
+ Strand=Plus/Plus
+
+Query  49   CATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCG  108
+            |||||| || ||||||||||| || ||||||||||||||||||||||| |||||||||||
+Sbjct  76   CATGTCTGGGCGCGGCAAGGGCGGTAAGGGGCTCGGCAAGGGCGGCGCGAAGCGCCACCG  135
+
+Query  109  CAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCG  168
+             ||||| ||||||||||||||||||||||||||||||||||| ||||| || |||||  |
+Sbjct  136  GAAGGTGCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGGCTGGCGAG  195
+
+Query  169  CCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAA  228
+              | |||||||||||||||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  196  GAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTACTCAA  255
+
+Query  229  GATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAA  288
+            |||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||
+Sbjct  256  GATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAA  315
+
+Query  289  GACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGG  348
+            ||||||||||||||||||||| ||||||||||||||||||||||| ||||| ||||||||
+Sbjct  316  GACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTACGG  375
+
+Query  349  CTTCGGCGGCTAGAGGC  365
+            |||||||||||||||||
+Sbjct  376  CTTCGGCGGCTAGAGGC  392
+
+
+>dbj|AP014961.1| Oryza sativa Japonica Group DNA, chromosome 5, cultivar: Nipponbare, 
+complete sequence
+Length=29958434
+
+ Features in this part of subject sequence:
+   Os05g0462700
+
+ Score = 470 bits (254),  Expect = 2e-128
+ Identities = 293/313 (94%), Gaps = 0/313 (0%)
+ Strand=Plus/Minus
+
+Query  47        GCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCAC  106
+                 ||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  22737179  GCCATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAGCGTCAC  22737120
+
+Query  107       CGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCT  166
+                 || ||||| |||||||||||||||||||| |||||||||||||| |||||  | ||||| 
+Sbjct  22737119  CGGAAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCG  22737060
+
+Query  167       CGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTC  226
+                  |  | |||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  22737059  AGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGCTC  22737000
+
+Query  227       AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGC  286
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  22736999  AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGC  22736940
+
+Query  287       AAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTAC  346
+                 ||||||||||||||||||||||| ||||||||||||||||||||||| ||||| ||||||
+Sbjct  22736939  AAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTAC  22736880
+
+Query  347       GGCTTCGGCGGCT  359
+                 |||||||||||||
+Sbjct  22736879  GGCTTCGGCGGCT  22736867
+
+
+ Features in this part of subject sequence:
+   Os05g0466600
+
+ Score = 464 bits (251),  Expect = 8e-127
+ Identities = 292/313 (93%), Gaps = 0/313 (0%)
+ Strand=Plus/Plus
+
+Query  47        GCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCAC  106
+                 ||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  22903202  GCCATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAGCGTCAC  22903261
+
+Query  107       CGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCT  166
+                 || ||||| |||||||||||||||||||| |||||||||||||| |||||  | ||||| 
+Sbjct  22903262  CGGAAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCA  22903321
+
+Query  167       CGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTC  226
+                  |  | |||||||||||||||||||||||||| ||||||||||||||||| |||||||||
+Sbjct  22903322  AGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTGATCTACGAGGAGACCCGCGGCGTGCTC  22903381
+
+Query  227       AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGC  286
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  22903382  AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGC  22903441
+
+Query  287       AAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTAC  346
+                 ||||||||||||||||||||||| ||||||||||||||||||||||| ||||| ||||||
+Sbjct  22903442  AAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTAC  22903501
+
+Query  347       GGCTTCGGCGGCT  359
+                 |||||||||||||
+Sbjct  22903502  GGCTTCGGCGGCT  22903514
+
+
+>gb|CP012613.1| Oryza sativa Indica Group cultivar RP Bio-226 chromosome 5 sequence
+Length=29396997
+
+ Score = 470 bits (254),  Expect = 2e-128
+ Identities = 293/313 (94%), Gaps = 0/313 (0%)
+ Strand=Plus/Minus
+
+Query  47        GCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCAC  106
+                 ||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  22581655  GCCATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAGCGTCAC  22581596
+
+Query  107       CGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCT  166
+                 || ||||| |||||||||||||||||||| |||||||||||||| |||||  | ||||| 
+Sbjct  22581595  CGGAAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCG  22581536
+
+Query  167       CGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTC  226
+                  |  | |||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  22581535  AGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGCTC  22581476
+
+Query  227       AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGC  286
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  22581475  AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGC  22581416
+
+Query  287       AAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTAC  346
+                 ||||||||||||||||||||||| ||||||||||||||||||||||| ||||| ||||||
+Sbjct  22581415  AAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTAC  22581356
+
+Query  347       GGCTTCGGCGGCT  359
+                 |||||||||||||
+Sbjct  22581355  GGCTTCGGCGGCT  22581343
+
+
+ Score = 464 bits (251),  Expect = 8e-127
+ Identities = 292/313 (93%), Gaps = 0/313 (0%)
+ Strand=Plus/Plus
+
+Query  47        GCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCAC  106
+                 ||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  22803458  GCCATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAGCGTCAC  22803517
+
+Query  107       CGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCT  166
+                 || ||||| |||||||||||||||||||| |||||||||||||| |||||  | ||||| 
+Sbjct  22803518  CGGAAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCG  22803577
+
+Query  167       CGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTC  226
+                  |  | |||||||||||||||||||||||||| ||||||||||||||||| |||||||||
+Sbjct  22803578  AGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTGATCTACGAGGAGACCCGCGGCGTGCTC  22803637
+
+Query  227       AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGC  286
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  22803638  AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGC  22803697
+
+Query  287       AAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTAC  346
+                 ||||||||||||||||||||||| ||||||||||||||||||||||| ||||| ||||||
+Sbjct  22803698  AAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTAC  22803757
+
+Query  347       GGCTTCGGCGGCT  359
+                 |||||||||||||
+Sbjct  22803758  GGCTTCGGCGGCT  22803770
+
+
+>ref|NM_001062304.1| Oryza sativa Japonica Group Os05g0462700 (Os05g0462700) mRNA, 
+complete cds
+Length=590
+
+ Score = 470 bits (254),  Expect = 2e-128
+ Identities = 293/313 (94%), Gaps = 0/313 (0%)
+ Strand=Plus/Plus
+
+Query  47   GCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCAC  106
+            ||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  104  GCCATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAGCGTCAC  163
+
+Query  107  CGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCT  166
+            || ||||| |||||||||||||||||||| |||||||||||||| |||||  | ||||| 
+Sbjct  164  CGGAAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCG  223
+
+Query  167  CGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTC  226
+             |  | |||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  224  AGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGCTC  283
+
+Query  227  AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGC  286
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  284  AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGC  343
+
+Query  287  AAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTAC  346
+            ||||||||||||||||||||||| ||||||||||||||||||||||| ||||| ||||||
+Sbjct  344  AAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTAC  403
+
+Query  347  GGCTTCGGCGGCT  359
+            |||||||||||||
+Sbjct  404  GGCTTCGGCGGCT  416
+
+
+>gb|AC108500.3| Oryza sativa Japonica Group chromosome 5 clone OJ1280_A04, complete 
+sequence
+Length=88553
+
+ Score = 470 bits (254),  Expect = 2e-128
+ Identities = 293/313 (94%), Gaps = 0/313 (0%)
+ Strand=Plus/Minus
+
+Query  47    GCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCAC  106
+             ||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  4572  GCCATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAGCGTCAC  4513
+
+Query  107   CGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCT  166
+             || ||||| |||||||||||||||||||| |||||||||||||| |||||  | ||||| 
+Sbjct  4512  CGGAAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCG  4453
+
+Query  167   CGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTC  226
+              |  | |||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  4452  AGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGCTC  4393
+
+Query  227   AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGC  286
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  4392  AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGC  4333
+
+Query  287   AAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTAC  346
+             ||||||||||||||||||||||| ||||||||||||||||||||||| ||||| ||||||
+Sbjct  4332  AAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTAC  4273
+
+Query  347   GGCTTCGGCGGCT  359
+             |||||||||||||
+Sbjct  4272  GGCTTCGGCGGCT  4260
+
+
+>gb|AC108876.2| Oryza sativa Japonica Group chromosome 5 clone OJ1525_A02, complete 
+sequence
+Length=93826
+
+ Score = 470 bits (254),  Expect = 2e-128
+ Identities = 293/313 (94%), Gaps = 0/313 (0%)
+ Strand=Plus/Minus
+
+Query  47     GCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCAC  106
+              ||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  87084  GCCATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAGCGTCAC  87025
+
+Query  107    CGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCT  166
+              || ||||| |||||||||||||||||||| |||||||||||||| |||||  | ||||| 
+Sbjct  87024  CGGAAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCG  86965
+
+Query  167    CGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTC  226
+               |  | |||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  86964  AGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGCTC  86905
+
+Query  227    AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGC  286
+              |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  86904  AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGC  86845
+
+Query  287    AAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTAC  346
+              ||||||||||||||||||||||| ||||||||||||||||||||||| ||||| ||||||
+Sbjct  86844  AAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTAC  86785
+
+Query  347    GGCTTCGGCGGCT  359
+              |||||||||||||
+Sbjct  86784  GGCTTCGGCGGCT  86772
+
+
+>dbj|AK105816.1| Oryza sativa Japonica Group cDNA clone:001-203-C11, full insert 
+sequence
+Length=588
+
+ Score = 470 bits (254),  Expect = 2e-128
+ Identities = 293/313 (94%), Gaps = 0/313 (0%)
+ Strand=Plus/Plus
+
+Query  47   GCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCAC  106
+            ||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  102  GCCATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAGCGTCAC  161
+
+Query  107  CGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCT  166
+            || ||||| |||||||||||||||||||| |||||||||||||| |||||  | ||||| 
+Sbjct  162  CGGAAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCG  221
+
+Query  167  CGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTC  226
+             |  | |||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  222  AGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGCTC  281
+
+Query  227  AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGC  286
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  282  AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGC  341
+
+Query  287  AAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTAC  346
+            ||||||||||||||||||||||| ||||||||||||||||||||||| ||||| ||||||
+Sbjct  342  AAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTAC  401
+
+Query  347  GGCTTCGGCGGCT  359
+            |||||||||||||
+Sbjct  402  GGCTTCGGCGGCT  414
+
+
+>emb|FP100423.1| Phyllostachys edulis cDNA clone: bphyst002n22, full insert sequence
+Length=645
+
+ Score = 468 bits (253),  Expect = 7e-128
+ Identities = 294/315 (93%), Gaps = 0/315 (0%)
+ Strand=Plus/Plus
+
+Query  46   AGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCA  105
+            ||||||||| |||||||||||||| || ||||||||||||||||||||||| ||||||||
+Sbjct  87   AGCCATGTCTGGCCGCGGCAAGGGTGGGAAGGGGCTCGGCAAGGGCGGCGCGAAGCGCCA  146
+
+Query  106  CCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGC  165
+            ||| |||||| | |||||||||||||||||||||||||||||||| ||||| ||||||||
+Sbjct  147  CCGGAAGGTCTTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGGC  206
+
+Query  166  TCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCT  225
+              |  | |||||||||||||||||||||||||||||||||||||||||||| ||||| ||
+Sbjct  207  GAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTACT  266
+
+Query  226  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCG  285
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||||| ||||
+Sbjct  267  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACTGAGCACGCCCGCCG  326
+
+Query  286  CAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTA  345
+            |||||||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||
+Sbjct  327  CAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTA  386
+
+Query  346  CGGCTTCGGCGGCTA  360
+            |||||||||||||||
+Sbjct  387  CGGCTTCGGCGGCTA  401
+
+
+>emb|FP095147.1| Phyllostachys edulis cDNA clone: bphyst003c04, full insert sequence
+Length=590
+
+ Score = 468 bits (253),  Expect = 7e-128
+ Identities = 312/341 (91%), Gaps = 4/341 (1%)
+ Strand=Plus/Plus
+
+Query  41   TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+            ||| |||||||||| || |||||||||||||| ||||||||||||||||||||||| |||
+Sbjct  69   TCGGCAGCCATGTCTGGACGCGGCAAGGGAGGGAAGGGGCTCGGCAAGGGCGGCGCGAAG  128
+
+Query  101  CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+            |||||||| |||||||| |||||||||||||||||||||||||||||||| ||||| || 
+Sbjct  129  CGCCACCGGAAGGTCCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGG  188
+
+Query  161  CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+            |||||  |  | || ||||||||||||||||| |||||||||||||||||||||||||||
+Sbjct  189  CTGGCGAGGAGGGGAGGCGTGAAGCGCATCTCTGGGCTCATCTACGAGGAGACCCGTGGC  248
+
+Query  221  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+            ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  249  GTGCTCAAGATCTTCCTGGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  308
+
+Query  281  SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+             |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| 
+Sbjct  309  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACC  368
+
+Query  341  CTCTACGGCTTCGGCGGCTAGAGGCCTCTCCT--CCTCTTC  379
+            |||||||||||||| ||||| || ||  ||||  |||||||
+Sbjct  369  CTCTACGGCTTCGGTGGCTA-AG-CCGGTCCTTTCCTCTTC  407
+
+
+>emb|FP098025.1| Phyllostachys edulis cDNA clone: bphylf060g20, full insert sequence
+Length=1922
+
+ Score = 468 bits (253),  Expect = 7e-128
+ Identities = 294/315 (93%), Gaps = 0/315 (0%)
+ Strand=Plus/Plus
+
+Query  46    AGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCA  105
+             ||||||||| |||||||||||||| || ||||||||||||||||||||||| ||||||||
+Sbjct  1381  AGCCATGTCTGGCCGCGGCAAGGGTGGGAAGGGGCTCGGCAAGGGCGGCGCGAAGCGCCA  1440
+
+Query  106   CCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGC  165
+             ||| |||||| | |||||||||||||||||||||||||||||||| ||||| ||||||||
+Sbjct  1441  CCGGAAGGTCTTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGGC  1500
+
+Query  166   TCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCT  225
+               |  | |||||||||||||||||||||||||||||||||||||||||||| ||||| ||
+Sbjct  1501  GAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTACT  1560
+
+Query  226   CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCG  285
+             ||||||||||||||||||||||||||||||||||||||||||||| ||||||||| ||||
+Sbjct  1561  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACTGAGCACGCCCGCCG  1620
+
+Query  286   CAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTA  345
+             |||||||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||
+Sbjct  1621  CAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTA  1680
+
+Query  346   CGGCTTCGGCGGCTA  360
+             |||||||||||||||
+Sbjct  1681  CGGCTTCGGCGGCTA  1695
+
+
+>emb|FP097318.1| Phyllostachys edulis cDNA clone: bphyst012o10, full insert sequence
+Length=683
+
+ Score = 468 bits (253),  Expect = 7e-128
+ Identities = 294/315 (93%), Gaps = 0/315 (0%)
+ Strand=Plus/Plus
+
+Query  46   AGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCA  105
+            ||||||||| || ||||||||||| || ||||||||||||||||||||||| ||||||||
+Sbjct  77   AGCCATGTCTGGGCGCGGCAAGGGCGGGAAGGGGCTCGGCAAGGGCGGCGCGAAGCGCCA  136
+
+Query  106  CCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGC  165
+            ||| |||||||| |||||||||||||||||||||||||||||||| ||||| ||||||||
+Sbjct  137  CCGGAAGGTCCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGGC  196
+
+Query  166  TCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCT  225
+              |  | |||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  197  GAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGCT  256
+
+Query  226  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCG  285
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  257  CAAGATCTTCCTGGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCG  316
+
+Query  286  CAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTA  345
+            |||||| ||||||||||||||||| ||||||||||||||||||||||| ||||| |||||
+Sbjct  317  CAAGACTGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTA  376
+
+Query  346  CGGCTTCGGCGGCTA  360
+            |||||||||||||||
+Sbjct  377  CGGCTTCGGCGGCTA  391
+
+
+>emb|FP097061.1| Phyllostachys edulis cDNA clone: bphyem002o03, full insert sequence
+Length=578
+
+ Score = 468 bits (253),  Expect = 7e-128
+ Identities = 294/315 (93%), Gaps = 0/315 (0%)
+ Strand=Plus/Plus
+
+Query  46   AGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCA  105
+            ||||||||| || ||||||||||| || ||||||||||||||||||||||| ||||||||
+Sbjct  83   AGCCATGTCTGGGCGCGGCAAGGGCGGGAAGGGGCTCGGCAAGGGCGGCGCGAAGCGCCA  142
+
+Query  106  CCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGC  165
+            ||| |||||||| |||||||||||||||||||||||||||||||| ||||| ||||||||
+Sbjct  143  CCGGAAGGTCCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGGC  202
+
+Query  166  TCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCT  225
+              |  | |||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  203  GAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGCT  262
+
+Query  226  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCG  285
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  263  CAAGATCTTCCTGGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCG  322
+
+Query  286  CAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTA  345
+            |||||| ||||||||||||||||| ||||||||||||||||||||||| ||||| |||||
+Sbjct  323  CAAGACTGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTA  382
+
+Query  346  CGGCTTCGGCGGCTA  360
+            |||||||||||||||
+Sbjct  383  CGGCTTCGGCGGCTA  397
+
+
+>emb|FP101522.1| Phyllostachys edulis cDNA clone: bphyst007k15, full insert sequence
+Length=575
+
+ Score = 468 bits (253),  Expect = 7e-128
+ Identities = 312/341 (91%), Gaps = 4/341 (1%)
+ Strand=Plus/Plus
+
+Query  41   TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+            ||| |||||||||| || |||||||||||||| ||||||||||||||||||||||| |||
+Sbjct  69   TCGGCAGCCATGTCTGGACGCGGCAAGGGAGGGAAGGGGCTCGGCAAGGGCGGCGCGAAG  128
+
+Query  101  CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+            |||||||| |||||||| |||||||||||||||||||||||||||||||| ||||| || 
+Sbjct  129  CGCCACCGGAAGGTCCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGG  188
+
+Query  161  CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+            |||||  |  | || ||||||||||||||||| |||||||||||||||||||||||||||
+Sbjct  189  CTGGCGAGGAGGGGAGGCGTGAAGCGCATCTCTGGGCTCATCTACGAGGAGACCCGTGGC  248
+
+Query  221  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+            ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  249  GTGCTCAAGATCTTCCTGGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  308
+
+Query  281  SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+             |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| 
+Sbjct  309  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACC  368
+
+Query  341  CTCTACGGCTTCGGCGGCTAGAGGCCTCTCCT--CCTCTTC  379
+            |||||||||||||| ||||| || ||  ||||  |||||||
+Sbjct  369  CTCTACGGCTTCGGTGGCTA-AG-CCGGTCCTTTCCTCTTC  407
+
+
+>dbj|AK373961.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv3049F20
+Length=558
+
+ Score = 466 bits (252),  Expect = 2e-127
+ Identities = 297/320 (93%), Gaps = 0/320 (0%)
+ Strand=Plus/Plus
+
+Query  42   CGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGC  101
+            |||| || ||||| ||||||||||||||||| || ||||| |||||||||||||||||||
+Sbjct  74   CGTCGGCGATGTCCGGCCGCGGCAAGGGAGGGAAAGGGCTGGGCAAGGGCGGCGCCAAGC  133
+
+Query  102  GCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCC  161
+            ||||||| |||||||||||||||||||||||||| ||||| |||||||| || || || |
+Sbjct  134  GCCACCGAAAGGTCCTCCGCGACAACATCCAGGGGATCACGAAGCCGGCGATTCGGCGGC  193
+
+Query  162  TGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCG  221
+            |||| || || ||||| |||||||||||||| ||||||||||||||||||||||| ||||
+Sbjct  194  TGGCGCGGCGGGGCGGAGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCG  253
+
+Query  222  TGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCS  281
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 
+Sbjct  254  TGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCC  313
+
+Query  282  GCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTC  341
+            |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| |
+Sbjct  314  GCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCC  373
+
+Query  342  TCTACGGCTTCGGCGGCTAG  361
+            ||||||||||||||||||||
+Sbjct  374  TCTACGGCTTCGGCGGCTAG  393
+
+
+>dbj|AK373146.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv3022G06
+Length=557
+
+ Score = 466 bits (252),  Expect = 2e-127
+ Identities = 297/320 (93%), Gaps = 0/320 (0%)
+ Strand=Plus/Plus
+
+Query  42   CGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGC  101
+            |||| || ||||| ||||||||||||||||| || ||||| |||||||||||||||||||
+Sbjct  69   CGTCGGCGATGTCCGGCCGCGGCAAGGGAGGGAAAGGGCTGGGCAAGGGCGGCGCCAAGC  128
+
+Query  102  GCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCC  161
+            ||||||| |||||||||||||||||||||||||| ||||| |||||||| || || || |
+Sbjct  129  GCCACCGAAAGGTCCTCCGCGACAACATCCAGGGGATCACGAAGCCGGCGATTCGGCGGC  188
+
+Query  162  TGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCG  221
+            |||| || || ||||| |||||||||||||| ||||||||||||||||||||||| ||||
+Sbjct  189  TGGCGCGGCGGGGCGGAGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCG  248
+
+Query  222  TGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCS  281
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 
+Sbjct  249  TGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCC  308
+
+Query  282  GCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTC  341
+            |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| |
+Sbjct  309  GCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCC  368
+
+Query  342  TCTACGGCTTCGGCGGCTAG  361
+            ||||||||||||||||||||
+Sbjct  369  TCTACGGCTTCGGCGGCTAG  388
+
+
+>ref|XM_004985892.3| PREDICTED: Setaria italica histone H4 (LOC101754599), mRNA
+Length=569
+
+ Score = 464 bits (251),  Expect = 8e-127
+ Identities = 304/330 (92%), Gaps = 4/330 (1%)
+ Strand=Plus/Plus
+
+Query  46   AGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCA  105
+            ||||||||||||||||||||||||||| ||||| || |||||||||||||| ||||| ||
+Sbjct  68   AGCCATGTCGGGCCGCGGCAAGGGAGGCAAGGGTCTGGGCAAGGGCGGCGCGAAGCGGCA  127
+
+Query  106  CCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGC  165
+            |||||||||||||||||||||||||||||| |||||||||||||| |||||  | |||||
+Sbjct  128  CCGCAAGGTCCTCCGCGACAACATCCAGGGAATCACCAAGCCGGCGATCCGGAGGCTGGC  187
+
+Query  166  TCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCT  225
+             ||| | |||||||||||||||||||||||||| ||||||||||||||||| ||||||||
+Sbjct  188  GCGCAGGGGCGGCGTGAAGCGCATCTCCGGGCTGATCTACGAGGAGACCCGCGGCGTGCT  247
+
+Query  226  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCG  285
+            ||||||||| ||||||||||||||||| ||||||||||||||||| ||||||||| ||||
+Sbjct  248  CAAGATCTTTCTCGAGAACGTCATCCGTGACGCCGTCACCTACACGGAGCACGCCCGCCG  307
+
+Query  286  CAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTA  345
+            |||||||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||
+Sbjct  308  CAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGGCGCACCCTCTA  367
+
+Query  346  CGGCTTCGGCGGCTAGAGGCCTCT-CCTCC  374
+            |||||||||||||| ||| | ||| |||||
+Sbjct  368  CGGCTTCGGCGGCT-GAG-C-TCTGCCTCC  394
+
+
+>ref|XM_003558906.2| PREDICTED: Brachypodium distachyon histone H4 (LOC100845127), 
+mRNA
+Length=589
+
+ Score = 464 bits (251),  Expect = 8e-127
+ Identities = 294/316 (93%), Gaps = 0/316 (0%)
+ Strand=Plus/Plus
+
+Query  44   TCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGC  103
+            ||||||||||||||||||||||||||||| ||||| || || ||||||||||| ||||||
+Sbjct  66   TCAGCCATGTCGGGCCGCGGCAAGGGAGGCAAGGGCCTGGGTAAGGGCGGCGCGAAGCGC  125
+
+Query  104  CACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTG  163
+            ||||| ||||| || || |||||||||||||||||||| |||||||| ||||| ||||||
+Sbjct  126  CACCGGAAGGTGCTGCGGGACAACATCCAGGGCATCACGAAGCCGGCGATCCGTCGCCTG  185
+
+Query  164  GCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTG  223
+            || ||||| |||||||||||||||||||| ||||||||||||||||||||||| ||||||
+Sbjct  186  GCGCGCCGTGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCGTG  245
+
+Query  224  CTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGC  283
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||| ||
+Sbjct  246  CTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGCCCGC  305
+
+Query  284  CGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTC  343
+            |||||||||||||||||||||||||| |||||||| |||||||||||||| ||||| |||
+Sbjct  306  CGCAAGACCGTCACCGCCATGGACGTCGTCTACGCCCTCAAGCGCCAGGGCCGCACCCTC  365
+
+Query  344  TACGGCTTCGGCGGCT  359
+            ||||||||||||||||
+Sbjct  366  TACGGCTTCGGCGGCT  381
+
+
+>ref|XM_002439887.1| Sorghum bicolor hypothetical protein, mRNA
+Length=591
+
+ Score = 464 bits (251),  Expect = 8e-127
+ Identities = 294/316 (93%), Gaps = 0/316 (0%)
+ Strand=Plus/Plus
+
+Query  46   AGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCA  105
+            ||||||||| || ||||||||||| || ||||||||||||||||||||||| ||||||||
+Sbjct  80   AGCCATGTCTGGGCGCGGCAAGGGTGGCAAGGGGCTCGGCAAGGGCGGCGCGAAGCGCCA  139
+
+Query  106  CCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGC  165
+            ||| ||||| || |||||||||||||||||||||||||||||||| ||||| || |||||
+Sbjct  140  CCGGAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGGCTGGC  199
+
+Query  166  TCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCT  225
+              |  | |||||||||||||||||||| ||||||||||||||||||||||| ||||||||
+Sbjct  200  GAGGAGGGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCGTGCT  259
+
+Query  226  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCG  285
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  260  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCG  319
+
+Query  286  CAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTA  345
+            |||||||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||
+Sbjct  320  CAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTA  379
+
+Query  346  CGGCTTCGGCGGCTAG  361
+            ||||||||||||||||
+Sbjct  380  CGGCTTCGGCGGCTAG  395
+
+
+>emb|CT833176.1| Oryza sativa (indica cultivar-group) cDNA clone:OSIGCRA214N22, 
+full insert sequence
+Length=629
+
+ Score = 464 bits (251),  Expect = 8e-127
+ Identities = 292/313 (93%), Gaps = 0/313 (0%)
+ Strand=Plus/Plus
+
+Query  47   GCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCAC  106
+            ||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  88   GCCATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAGCGTCAC  147
+
+Query  107  CGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCT  166
+            || ||||| |||||||||||||||||||| |||||||||||||| |||||  | ||||| 
+Sbjct  148  CGGAAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCG  207
+
+Query  167  CGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTC  226
+             |  | |||||||||||||||||||||||||| ||||||||||||||||| |||||||||
+Sbjct  208  AGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTGATCTACGAGGAGACCCGCGGCGTGCTC  267
+
+Query  227  AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGC  286
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  268  AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGC  327
+
+Query  287  AAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTAC  346
+            ||||||||||||||||||||||| ||||||||||||||||||||||| ||||| ||||||
+Sbjct  328  AAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTAC  387
+
+Query  347  GGCTTCGGCGGCT  359
+            |||||||||||||
+Sbjct  388  GGCTTCGGCGGCT  400
+
+
+>ref|NM_001062321.1| Oryza sativa Japonica Group Os05g0466600 (Os05g0466600) mRNA, 
+complete cds
+ dbj|AK119240.1| Oryza sativa Japonica Group cDNA clone:001-120-A04, full insert 
+sequence
+Length=672
+
+ Score = 464 bits (251),  Expect = 8e-127
+ Identities = 292/313 (93%), Gaps = 0/313 (0%)
+ Strand=Plus/Plus
+
+Query  47   GCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCAC  106
+            ||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  88   GCCATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAGCGTCAC  147
+
+Query  107  CGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCT  166
+            || ||||| |||||||||||||||||||| |||||||||||||| |||||  | ||||| 
+Sbjct  148  CGGAAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCA  207
+
+Query  167  CGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTC  226
+             |  | |||||||||||||||||||||||||| ||||||||||||||||| |||||||||
+Sbjct  208  AGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTGATCTACGAGGAGACCCGCGGCGTGCTC  267
+
+Query  227  AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGC  286
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  268  AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGC  327
+
+Query  287  AAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTAC  346
+            ||||||||||||||||||||||| ||||||||||||||||||||||| ||||| ||||||
+Sbjct  328  AAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTAC  387
+
+Query  347  GGCTTCGGCGGCT  359
+            |||||||||||||
+Sbjct  388  GGCTTCGGCGGCT  400
+
+
+>gb|AC121361.3| Oryza sativa Japonica Group chromosome 5 clone OSJNBa0009E21, 
+complete sequence
+Length=153214
+
+ Score = 464 bits (251),  Expect = 8e-127
+ Identities = 292/313 (93%), Gaps = 0/313 (0%)
+ Strand=Plus/Plus
+
+Query  47      GCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCAC  106
+               ||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  113256  GCCATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAGCGTCAC  113315
+
+Query  107     CGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCT  166
+               || ||||| |||||||||||||||||||| |||||||||||||| |||||  | ||||| 
+Sbjct  113316  CGGAAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCA  113375
+
+Query  167     CGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTC  226
+                |  | |||||||||||||||||||||||||| ||||||||||||||||| |||||||||
+Sbjct  113376  AGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTGATCTACGAGGAGACCCGCGGCGTGCTC  113435
+
+Query  227     AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGC  286
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  113436  AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGC  113495
+
+Query  287     AAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTAC  346
+               ||||||||||||||||||||||| ||||||||||||||||||||||| ||||| ||||||
+Sbjct  113496  AAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTAC  113555
+
+Query  347     GGCTTCGGCGGCT  359
+               |||||||||||||
+Sbjct  113556  GGCTTCGGCGGCT  113568
+
+
+>gb|AC108503.4| Oryza sativa Japonica Group chromosome 5 clone OJ1387_F08, complete 
+sequence
+Length=141535
+
+ Score = 464 bits (251),  Expect = 8e-127
+ Identities = 292/313 (93%), Gaps = 0/313 (0%)
+ Strand=Plus/Plus
+
+Query  47     GCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCAC  106
+              ||||||||||| |||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  67507  GCCATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTCGGCAAGGGCGGCGCCAAGCGTCAC  67566
+
+Query  107    CGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCT  166
+              || ||||| |||||||||||||||||||| |||||||||||||| |||||  | ||||| 
+Sbjct  67567  CGGAAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCA  67626
+
+Query  167    CGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTC  226
+               |  | |||||||||||||||||||||||||| ||||||||||||||||| |||||||||
+Sbjct  67627  AGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTGATCTACGAGGAGACCCGCGGCGTGCTC  67686
+
+Query  227    AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGC  286
+              |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  67687  AAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGC  67746
+
+Query  287    AAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTAC  346
+              ||||||||||||||||||||||| ||||||||||||||||||||||| ||||| ||||||
+Sbjct  67747  AAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTAC  67806
+
+Query  347    GGCTTCGGCGGCT  359
+              |||||||||||||
+Sbjct  67807  GGCTTCGGCGGCT  67819
+
+
+>dbj|AK362824.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv2010F20
+Length=531
+
+ Score = 462 bits (250),  Expect = 3e-126
+ Identities = 291/312 (93%), Gaps = 0/312 (0%)
+ Strand=Plus/Plus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            |||||||| ||||||||||| || |||||||| |||||||||||||||||||||| ||| 
+Sbjct  73   ATGTCGGGGCGCGGCAAGGGCGGCAAGGGGCTGGGCAAGGGCGGCGCCAAGCGCCTCCGG  132
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            ||||||||||||||||||||||||||||||||||||||||| ||||| || || || || 
+Sbjct  133  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGTCGTCTTGCGCGT  192
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+            ||||||||||||||||||||||| ||||||||||||||||||||||| ||||||||||||
+Sbjct  193  CGCGGCGGCGTGAAGCGCATCTCAGGGCTCATCTACGAGGAGACCCGCGGCGTGCTCAAG  252
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+            ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  253  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  312
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            |||||||| ||||||||||| |||||||| |||||||||||||| ||||| |||||||||
+Sbjct  313  ACCGTCACTGCCATGGACGTCGTCTACGCCCTCAAGCGCCAGGGACGCACCCTCTACGGC  372
+
+Query  350  TTCGGCGGCTAG  361
+            ||||| ||||||
+Sbjct  373  TTCGGAGGCTAG  384
+
+
+>emb|FP100557.1| Phyllostachys edulis cDNA clone: bphyst039c24, full insert sequence
+Length=565
+
+ Score = 462 bits (250),  Expect = 3e-126
+ Identities = 298/322 (93%), Gaps = 2/322 (1%)
+ Strand=Plus/Plus
+
+Query  46   AGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCA  105
+            ||||||||| |||||||||||||| || ||||||||||||||||| ||||| ||||||||
+Sbjct  85   AGCCATGTCTGGCCGCGGCAAGGGCGGGAAGGGGCTCGGCAAGGGAGGCGCGAAGCGCCA  144
+
+Query  106  CCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGC  165
+            ||| |||||| | |||||||||||||||||||||||||||||||| ||||| ||||||||
+Sbjct  145  CCGGAAGGTCTTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGGC  204
+
+Query  166  TCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCT  225
+              |  | |||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  205  GAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGCT  264
+
+Query  226  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCG  285
+            |||||||||||||||||||||||||||||| |||||||||||||| ||||||||| ||||
+Sbjct  265  CAAGATCTTCCTCGAGAACGTCATCCGCGATGCCGTCACCTACACGGAGCACGCCCGCCG  324
+
+Query  286  CAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTA  345
+            |||||||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||
+Sbjct  325  CAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTA  384
+
+Query  346  CGGCTTCGGCGGCTAGAGGCCT  367
+            |||||||||||||| ||| |||
+Sbjct  385  CGGCTTCGGCGGCT-GAG-CCT  404
+
+
+>emb|FP100393.1| Phyllostachys edulis cDNA clone: bphyst002n11, full insert sequence
+Length=580
+
+ Score = 462 bits (250),  Expect = 3e-126
+ Identities = 293/315 (93%), Gaps = 0/315 (0%)
+ Strand=Plus/Plus
+
+Query  46   AGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCA  105
+            ||||||||| || ||||||||||| || ||||||||||||||||||||||| ||||||||
+Sbjct  69   AGCCATGTCTGGGCGCGGCAAGGGCGGGAAGGGGCTCGGCAAGGGCGGCGCGAAGCGCCA  128
+
+Query  106  CCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGC  165
+            ||| |||||||| || ||||||||||||||||||||||||||||| ||||| ||||||||
+Sbjct  129  CCGGAAGGTCCTGCGTGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGGC  188
+
+Query  166  TCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCT  225
+              |  | ||||||||||||||||||||||| |||||||||||||||||||| ||||||||
+Sbjct  189  GAGGAGGGGCGGCGTGAAGCGCATCTCCGGTCTCATCTACGAGGAGACCCGCGGCGTGCT  248
+
+Query  226  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCG  285
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  249  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCG  308
+
+Query  286  CAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTA  345
+            |||||||||||||||||||||||| ||||||||||||||||||||||| ||||| || ||
+Sbjct  309  CAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTTTA  368
+
+Query  346  CGGCTTCGGCGGCTA  360
+            |||||||||||||||
+Sbjct  369  CGGCTTCGGCGGCTA  383
+
+
+>emb|FP091446.1| Phyllostachys edulis cDNA clone: bphylf002c17, full insert sequence
+Length=720
+
+ Score = 462 bits (250),  Expect = 3e-126
+ Identities = 293/315 (93%), Gaps = 0/315 (0%)
+ Strand=Plus/Plus
+
+Query  46   AGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCA  105
+            ||||||||| || ||||||||||| || ||||||||||||||||||||||| ||||||||
+Sbjct  74   AGCCATGTCTGGGCGCGGCAAGGGCGGGAAGGGGCTCGGCAAGGGCGGCGCGAAGCGCCA  133
+
+Query  106  CCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGC  165
+            ||| |||||||| || ||||||||||||||||||||||||||||| ||||| ||||||||
+Sbjct  134  CCGGAAGGTCCTGCGTGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGGC  193
+
+Query  166  TCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCT  225
+              |  | ||||||||||||||||||||||| |||||||||||||||||||| ||||||||
+Sbjct  194  GAGGAGGGGCGGCGTGAAGCGCATCTCCGGTCTCATCTACGAGGAGACCCGCGGCGTGCT  253
+
+Query  226  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCG  285
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  254  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCG  313
+
+Query  286  CAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTA  345
+            |||||||||||||||||||||||| ||||||||||||||||||||||| ||||| || ||
+Sbjct  314  CAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTTTA  373
+
+Query  346  CGGCTTCGGCGGCTA  360
+            |||||||||||||||
+Sbjct  374  CGGCTTCGGCGGCTA  388
+
+
+>emb|FP101651.1| Phyllostachys edulis cDNA clone: bphyst006o02, full insert sequence
+Length=584
+
+ Score = 462 bits (250),  Expect = 3e-126
+ Identities = 293/315 (93%), Gaps = 0/315 (0%)
+ Strand=Plus/Plus
+
+Query  46   AGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCA  105
+            ||||||||| || ||||||||||| || ||||||||||||||||||||||| ||||||||
+Sbjct  74   AGCCATGTCTGGGCGCGGCAAGGGCGGGAAGGGGCTCGGCAAGGGCGGCGCGAAGCGCCA  133
+
+Query  106  CCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGC  165
+            ||| |||||||| || ||||||||||||||||||||||||||||| ||||| ||||||||
+Sbjct  134  CCGGAAGGTCCTGCGTGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGGC  193
+
+Query  166  TCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCT  225
+              |  | ||||||||||||||||||||||| |||||||||||||||||||| ||||||||
+Sbjct  194  GAGGAGGGGCGGCGTGAAGCGCATCTCCGGTCTCATCTACGAGGAGACCCGCGGCGTGCT  253
+
+Query  226  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCG  285
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  254  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCG  313
+
+Query  286  CAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTA  345
+            |||||||||||||||||||||||| ||||||||||||||||||||||| ||||| || ||
+Sbjct  314  CAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTTTA  373
+
+Query  346  CGGCTTCGGCGGCTA  360
+            |||||||||||||||
+Sbjct  374  CGGCTTCGGCGGCTA  388
+
+
+>dbj|AK248915.1| Hordeum vulgare subsp. vulgare cDNA clone: FLbaf6p16, mRNA sequence
+Length=507
+
+ Score = 462 bits (250),  Expect = 3e-126
+ Identities = 291/312 (93%), Gaps = 0/312 (0%)
+ Strand=Plus/Plus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            ||||||||||||||||||||||| ||||| ||||| ||||||||||||||||||||||| 
+Sbjct  58   ATGTCGGGCCGCGGCAAGGGAGGCAAGGGTCTCGGGAAGGGCGGCGCCAAGCGCCACCGG  117
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            ||||||||||||||||||||||||||||||||||||||||| ||||| |||||||| || 
+Sbjct  118  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCAATCCGTCGCCTGGCCCGG  177
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+            || || |||||||||||||| || ||||||||||||||||||||||| ||||| ||||||
+Sbjct  178  CGGGGAGGCGTGAAGCGCATTTCGGGGCTCATCTACGAGGAGACCCGCGGCGTCCTCAAG  237
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+            ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  238  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  297
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            |||||||||||||||||||| |||||||| |||||||||||||| ||||| |||||||| 
+Sbjct  298  ACCGTCACCGCCATGGACGTCGTCTACGCCCTCAAGCGCCAGGGACGCACCCTCTACGGG  357
+
+Query  350  TTCGGCGGCTAG  361
+            ||||| ||||||
+Sbjct  358  TTCGGAGGCTAG  369
+
+
+>dbj|AK252102.1| Hordeum vulgare subsp. vulgare cDNA clone: FLbaf141e18, mRNA 
+sequence
+Length=736
+
+ Score = 462 bits (250),  Expect = 3e-126
+ Identities = 297/321 (93%), Gaps = 0/321 (0%)
+ Strand=Plus/Plus
+
+Query  41   TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+            |||||||||||||| || |||||||||||||| ||||| |||||||||||||||||||||
+Sbjct  70   TCGTCAGCCATGTCCGGGCGCGGCAAGGGAGGCAAGGGTCTCGGCAAGGGCGGCGCCAAG  129
+
+Query  101  CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+            |||||| | ||||| || |||||||||||||||||||||||||||||||||||||| |||
+Sbjct  130  CGCCACAGGAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGTCGC  189
+
+Query  161  CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+            |||||  |  | |||||||||||||| |||||||| |||||||||||||||||||| |||
+Sbjct  190  CTGGCGAGGAGGGGCGGCGTGAAGCGTATCTCCGGCCTCATCTACGAGGAGACCCGCGGC  249
+
+Query  221  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+            || ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  250  GTCCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCTGTCACCTACACCGAGCACGCC  309
+
+Query  281  SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+             |||||||||||||||||||||||||||| |||||||| |||||||||||||| ||||| 
+Sbjct  310  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCCCTCAAGCGCCAGGGCCGCACC  369
+
+Query  341  CTCTACGGCTTCGGCGGCTAG  361
+            |||||||||||||||||||||
+Sbjct  370  CTCTACGGCTTCGGCGGCTAG  390
+
+
+>dbj|AP014960.1| Oryza sativa Japonica Group DNA, chromosome 4, cultivar: Nipponbare, 
+complete sequence
+Length=35502694
+
+ Features in this part of subject sequence:
+   Os04g0583600
+
+ Score = 459 bits (248),  Expect = 4e-125
+ Identities = 291/313 (93%), Gaps = 0/313 (0%)
+ Strand=Plus/Minus
+
+Query  50        ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+                 |||||||| |||||||||||||| |||||||| |||||||||||||| ||||||||||||
+Sbjct  29489481  ATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTGGGCAAGGGCGGCGCGAAGCGCCACCGC  29489422
+
+Query  110       AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+                 ||||| |||||||||||||||||||| |||||||||||||| |||||  | |||||  | 
+Sbjct  29489421  AAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCGAGG  29489362
+
+Query  170       CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+                  | |||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  29489361  AGGGGCGGCGTCAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGCTCAAG  29489302
+
+Query  230       ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  29489301  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  29489242
+
+Query  290       ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+                 |||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||||||
+Sbjct  29489241  ACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTACGGC  29489182
+
+Query  350       TTCGGCGGCTAGA  362
+                 ||||| |||||||
+Sbjct  29489181  TTCGGAGGCTAGA  29489169
+
+
+>dbj|AP014959.1| Oryza sativa Japonica Group DNA, chromosome 3, cultivar: Nipponbare, 
+complete sequence
+Length=36413819
+
+ Features in this part of subject sequence:
+   Os03g0119900
+
+ Score = 459 bits (248),  Expect = 4e-125
+ Identities = 298/323 (92%), Gaps = 1/323 (0%)
+ Strand=Plus/Plus
+
+Query  41       TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+                |||||||||||||||||||||||||||||||| ||||| || |||||||||||||| |||
+Sbjct  1080859  TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGCAAGGGTCTTGGCAAGGGCGGCGCGAAG  1080918
+
+Query  101      CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+                || ||| | ||||| || |||||||||||||||||||||||||||||||| ||||| || 
+Sbjct  1080919  CGGCACAGGAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGG  1080978
+
+Query  161      CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+                |||||  |  | |||||||||||||||||||||||||| ||||||||||||||||| |||
+Sbjct  1080979  CTGGCGAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTGATCTACGAGGAGACCCGCGGC  1081038
+
+Query  221      GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+                |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  1081039  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGCC  1081098
+
+Query  281      SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+                 |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| 
+Sbjct  1081099  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACC  1081158
+
+Query  341      CTCTACGGCTTCGGCGGCTAGAG  363
+                ||||||||||||||||||| |||
+Sbjct  1081159  CTCTACGGCTTCGGCGGCT-GAG  1081180
+
+
+>gb|CP012612.1| Oryza sativa Indica Group cultivar RP Bio-226 chromosome 4 sequence
+Length=32587158
+
+ Score = 459 bits (248),  Expect = 4e-125
+ Identities = 291/313 (93%), Gaps = 0/313 (0%)
+ Strand=Plus/Minus
+
+Query  50        ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+                 |||||||| |||||||||||||| |||||||| |||||||||||||| ||||||||||||
+Sbjct  26524278  ATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTGGGCAAGGGCGGCGCGAAGCGCCACCGC  26524219
+
+Query  110       AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+                 ||||| |||||||||||||||||||| |||||||||||||| |||||  | |||||  | 
+Sbjct  26524218  AAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCGAGG  26524159
+
+Query  170       CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+                  | |||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  26524158  AGGGGCGGCGTCAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGCTCAAG  26524099
+
+Query  230       ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  26524098  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  26524039
+
+Query  290       ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+                 |||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||||||
+Sbjct  26524038  ACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTACGGC  26523979
+
+Query  350       TTCGGCGGCTAGA  362
+                 ||||| |||||||
+Sbjct  26523978  TTCGGAGGCTAGA  26523966
+
+
+>gb|CP012611.1| Oryza sativa Indica Group cultivar RP Bio-226 chromosome 3 sequence
+Length=39504267
+
+ Score = 459 bits (248),  Expect = 4e-125
+ Identities = 298/323 (92%), Gaps = 1/323 (0%)
+ Strand=Plus/Plus
+
+Query  41       TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+                |||||||||||||||||||||||||||||||| ||||| || |||||||||||||| |||
+Sbjct  1251080  TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGCAAGGGTCTTGGCAAGGGCGGCGCGAAG  1251139
+
+Query  101      CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+                || ||| | ||||| || |||||||||||||||||||||||||||||||| ||||| || 
+Sbjct  1251140  CGGCACAGGAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGG  1251199
+
+Query  161      CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+                |||||  |  | |||||||||||||||||||||||||| ||||||||||||||||| |||
+Sbjct  1251200  CTGGCGAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTGATCTACGAGGAGACCCGCGGC  1251259
+
+Query  221      GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+                |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  1251260  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGCC  1251319
+
+Query  281      SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+                 |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| 
+Sbjct  1251320  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACC  1251379
+
+Query  341      CTCTACGGCTTCGGCGGCTAGAG  363
+                ||||||||||||||||||| |||
+Sbjct  1251380  CTCTACGGCTTCGGCGGCT-GAG  1251401
+
+
+>gb|BT131727.1| Oryza sativa clone RRlibC00660 mRNA sequence
+Length=584
+
+ Score = 459 bits (248),  Expect = 4e-125
+ Identities = 291/313 (93%), Gaps = 0/313 (0%)
+ Strand=Plus/Minus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            |||||||| |||||||||||||| |||||||| |||||||||||||| ||||||||||||
+Sbjct  509  ATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTGGGCAAGGGCGGCGCGAAGCGCCACCGC  450
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            ||||| |||||||||||||||||||| |||||||||||||| |||||  | |||||  | 
+Sbjct  449  AAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCGAGG  390
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+             | |||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  389  AGGGGCGGCGTCAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGCTCAAG  330
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+            ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  329  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  270
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            |||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||||||
+Sbjct  269  ACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTACGGC  210
+
+Query  350  TTCGGCGGCTAGA  362
+            ||||| |||||||
+Sbjct  209  TTCGGAGGCTAGA  197
+
+
+>gb|BT130948.1| Oryza sativa clone RRlibC00411 mRNA sequence
+Length=517
+
+ Score = 459 bits (248),  Expect = 4e-125
+ Identities = 298/323 (92%), Gaps = 1/323 (0%)
+ Strand=Plus/Plus
+
+Query  41   TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+            |||||||||||||||||||||||||||||||| ||||| || |||||||||||||| |||
+Sbjct  58   TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGCAAGGGTCTTGGCAAGGGCGGCGCGAAG  117
+
+Query  101  CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+            || ||| | ||||| || |||||||||||||||||||||||||||||||| ||||| || 
+Sbjct  118  CGGCACAGGAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGG  177
+
+Query  161  CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+            |||||  |  | |||||||||||||||||||||||||| ||||||||||||||||| |||
+Sbjct  178  CTGGCGAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTGATCTACGAGGAGACCCGCGGC  237
+
+Query  221  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+            |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  238  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGCC  297
+
+Query  281  SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+             |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| 
+Sbjct  298  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACC  357
+
+Query  341  CTCTACGGCTTCGGCGGCTAGAG  363
+            ||||||||||||||||||| |||
+Sbjct  358  CTCTACGGCTTCGGCGGCT-GAG  379
+
+
+>emb|FP098868.1| Phyllostachys edulis cDNA clone: bbasst002k05, full insert sequence
+Length=568
+
+ Score = 459 bits (248),  Expect = 4e-125
+ Identities = 298/323 (92%), Gaps = 1/323 (0%)
+ Strand=Plus/Plus
+
+Query  41   TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+            |||||||||||||||||||| ||||||||||| ||||| || |||||||||||||| |||
+Sbjct  61   TCGTCAGCCATGTCGGGCCGAGGCAAGGGAGGTAAGGGTCTGGGCAAGGGCGGCGCGAAG  120
+
+Query  101  CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+            |||||||||||||| |||||||||||||||||||||||||| |||||||| |||||  | 
+Sbjct  121  CGCCACCGCAAGGTGCTCCGCGACAACATCCAGGGCATCACGAAGCCGGCGATCCGGAGG  180
+
+Query  161  CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+            |||||  |  | ||||||||||||||||||||||| || ||||||||||||||||| |||
+Sbjct  181  CTGGCGAGGAGGGGCGGCGTGAAGCGCATCTCCGGACTGATCTACGAGGAGACCCGCGGC  240
+
+Query  221  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+            |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  241  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGCC  300
+
+Query  281  SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+             |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| 
+Sbjct  301  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACC  360
+
+Query  341  CTCTACGGCTTCGGCGGCTAGAG  363
+            ||||||||||||||||||| |||
+Sbjct  361  CTCTACGGCTTCGGCGGCT-GAG  382
+
+
+>emb|CT830547.1| Oryza sativa (indica cultivar-group) cDNA clone:OSIGCRA109P05, 
+full insert sequence
+Length=593
+
+ Score = 459 bits (248),  Expect = 4e-125
+ Identities = 291/313 (93%), Gaps = 0/313 (0%)
+ Strand=Plus/Plus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            |||||||| |||||||||||||| |||||||| |||||||||||||| ||||||||||||
+Sbjct  77   ATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTGGGCAAGGGCGGCGCGAAGCGCCACCGC  136
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            ||||| |||||||||||||||||||| |||||||||||||| |||||  | |||||  | 
+Sbjct  137  AAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCGAGG  196
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+             | |||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  197  AGGGGCGGCGTCAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGCTCAAG  256
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+            ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  257  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  316
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            |||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||||||
+Sbjct  317  ACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTACGGC  376
+
+Query  350  TTCGGCGGCTAGA  362
+            ||||| |||||||
+Sbjct  377  TTCGGAGGCTAGA  389
+
+
+>ref|NM_001060199.1| Oryza sativa Japonica Group Os04g0583600 (Os04g0583600) mRNA, 
+complete cds
+ dbj|AK059019.1| Oryza sativa Japonica Group cDNA clone:001-021-B02, full insert 
+sequence
+Length=594
+
+ Score = 459 bits (248),  Expect = 4e-125
+ Identities = 291/313 (93%), Gaps = 0/313 (0%)
+ Strand=Plus/Plus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            |||||||| |||||||||||||| |||||||| |||||||||||||| ||||||||||||
+Sbjct  77   ATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTGGGCAAGGGCGGCGCGAAGCGCCACCGC  136
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            ||||| |||||||||||||||||||| |||||||||||||| |||||  | |||||  | 
+Sbjct  137  AAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCGAGG  196
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+             | |||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  197  AGGGGCGGCGTCAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGCTCAAG  256
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+            ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  257  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  316
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            |||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||||||
+Sbjct  317  ACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTACGGC  376
+
+Query  350  TTCGGCGGCTAGA  362
+            ||||| |||||||
+Sbjct  377  TTCGGAGGCTAGA  389
+
+
+>ref|NM_001055318.1| Oryza sativa Japonica Group Os03g0119900 (Os03g0119900) mRNA, 
+complete cds
+ dbj|AK058741.1| Oryza sativa Japonica Group cDNA clone:001-019-G08, full insert 
+sequence
+Length=526
+
+ Score = 459 bits (248),  Expect = 4e-125
+ Identities = 298/323 (92%), Gaps = 1/323 (0%)
+ Strand=Plus/Plus
+
+Query  41   TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+            |||||||||||||||||||||||||||||||| ||||| || |||||||||||||| |||
+Sbjct  59   TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGCAAGGGTCTTGGCAAGGGCGGCGCGAAG  118
+
+Query  101  CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+            || ||| | ||||| || |||||||||||||||||||||||||||||||| ||||| || 
+Sbjct  119  CGGCACAGGAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGG  178
+
+Query  161  CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+            |||||  |  | |||||||||||||||||||||||||| ||||||||||||||||| |||
+Sbjct  179  CTGGCGAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTGATCTACGAGGAGACCCGCGGC  238
+
+Query  221  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+            |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  239  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGCC  298
+
+Query  281  SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+             |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| 
+Sbjct  299  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACC  358
+
+Query  341  CTCTACGGCTTCGGCGGCTAGAG  363
+            ||||||||||||||||||| |||
+Sbjct  359  CTCTACGGCTTCGGCGGCT-GAG  380
+
+
+>emb|AL662987.3| Oryza sativa genomic DNA, chromosome 4, BAC clone: OSJNBa0088A01, 
+complete sequence
+Length=186325
+
+ Score = 459 bits (248),  Expect = 4e-125
+ Identities = 291/313 (93%), Gaps = 0/313 (0%)
+ Strand=Plus/Minus
+
+Query  50      ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+               |||||||| |||||||||||||| |||||||| |||||||||||||| ||||||||||||
+Sbjct  135690  ATGTCGGGGCGCGGCAAGGGAGGCAAGGGGCTGGGCAAGGGCGGCGCGAAGCGCCACCGC  135631
+
+Query  110     AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+               ||||| |||||||||||||||||||| |||||||||||||| |||||  | |||||  | 
+Sbjct  135630  AAGGTGCTCCGCGACAACATCCAGGGGATCACCAAGCCGGCGATCCGGAGGCTGGCGAGG  135571
+
+Query  170     CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+                | |||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  135570  AGGGGCGGCGTCAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGCTCAAG  135511
+
+Query  230     ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+               ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  135510  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  135451
+
+Query  290     ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+               |||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||||||
+Sbjct  135450  ACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTACGGC  135391
+
+Query  350     TTCGGCGGCTAGA  362
+               ||||| |||||||
+Sbjct  135390  TTCGGAGGCTAGA  135378
+
+
+>gb|AC118980.2| Oryza sativa Japonica Group chromosome 3 clone OJ1263H11, complete 
+sequence
+Length=126827
+
+ Score = 459 bits (248),  Expect = 4e-125
+ Identities = 298/323 (92%), Gaps = 1/323 (0%)
+ Strand=Plus/Plus
+
+Query  41     TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+              |||||||||||||||||||||||||||||||| ||||| || |||||||||||||| |||
+Sbjct  80759  TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGCAAGGGTCTTGGCAAGGGCGGCGCGAAG  80818
+
+Query  101    CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+              || ||| | ||||| || |||||||||||||||||||||||||||||||| ||||| || 
+Sbjct  80819  CGGCACAGGAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGG  80878
+
+Query  161    CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+              |||||  |  | |||||||||||||||||||||||||| ||||||||||||||||| |||
+Sbjct  80879  CTGGCGAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTGATCTACGAGGAGACCCGCGGC  80938
+
+Query  221    GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+              |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  80939  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGCC  80998
+
+Query  281    SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+               |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| 
+Sbjct  80999  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACC  81058
+
+Query  341    CTCTACGGCTTCGGCGGCTAGAG  363
+              ||||||||||||||||||| |||
+Sbjct  81059  CTCTACGGCTTCGGCGGCT-GAG  81080
+
+
+>dbj|AK372202.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv2148A03
+Length=3795
+
+ Score = 457 bits (247),  Expect = 1e-124
+ Identities = 290/312 (93%), Gaps = 0/312 (0%)
+ Strand=Plus/Minus
+
+Query  50    ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+             ||||||||||||||||||||||| ||||| ||||| ||||||||||||||||||| ||| 
+Sbjct  2362  ATGTCGGGCCGCGGCAAGGGAGGCAAGGGTCTCGGGAAGGGCGGCGCCAAGCGCCCCCGG  2303
+
+Query  110   AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+             ||||||||||||||||||||||||||||||||||||||||| ||||| |||||||| || 
+Sbjct  2302  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCAATCCGTCGCCTGGCCCGG  2243
+
+Query  170   CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+             || || |||||||||||||| || ||||||||||||||||||||||| ||||| ||||||
+Sbjct  2242  CGGGGAGGCGTGAAGCGCATTTCGGGGCTCATCTACGAGGAGACCCGCGGCGTCCTCAAG  2183
+
+Query  230   ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+             ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  2182  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  2123
+
+Query  290   ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+             |||||||||||||||||||| |||||||| |||||||||||||| ||||| |||||||| 
+Sbjct  2122  ACCGTCACCGCCATGGACGTCGTCTACGCCCTCAAGCGCCAGGGACGCACCCTCTACGGG  2063
+
+Query  350   TTCGGCGGCTAG  361
+             ||||| ||||||
+Sbjct  2062  TTCGGAGGCTAG  2051
+
+
+>dbj|AK371566.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv2137E18
+Length=533
+
+ Score = 457 bits (247),  Expect = 1e-124
+ Identities = 290/312 (93%), Gaps = 0/312 (0%)
+ Strand=Plus/Plus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            ||||| || ||||||||||| || |||||||| |||||||||||||||||||||||||| 
+Sbjct  65   ATGTCTGGGCGCGGCAAGGGCGGCAAGGGGCTGGGCAAGGGCGGCGCCAAGCGCCACCGG  124
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            |||||||||||||||||||||||||||||||||||||||||||||||  | |||||  | 
+Sbjct  125  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGGAGGCTGGCCAGG  184
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+             | ||||| ||||||||||||||||| |||||||||||||||||||| ||||| ||||||
+Sbjct  185  AGGGGCGGTGTGAAGCGCATCTCCGGCCTCATCTACGAGGAGACCCGCGGCGTCCTCAAG  244
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+            ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  245  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  304
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            |||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||||||
+Sbjct  305  ACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTACGGC  364
+
+Query  350  TTCGGCGGCTAG  361
+            ||||||||||||
+Sbjct  365  TTCGGCGGCTAG  376
+
+
+>dbj|AK375070.1| Hordeum vulgare subsp. vulgare mRNA for predicted protein, complete 
+cds, clone: NIASHv3084O03
+Length=559
+
+ Score = 457 bits (247),  Expect = 1e-124
+ Identities = 290/312 (93%), Gaps = 0/312 (0%)
+ Strand=Plus/Plus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            ||||| || ||||||||||| || |||||||| |||||||||||||||||||||||||| 
+Sbjct  58   ATGTCTGGGCGCGGCAAGGGCGGCAAGGGGCTGGGCAAGGGCGGCGCCAAGCGCCACCGG  117
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            |||||||||||||||||||||||||||||||||||||||||||||||  | |||||  | 
+Sbjct  118  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGGAGGCTGGCCAGG  177
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+             | ||||| ||||||||||||||||| |||||||||||||||||||| ||||| ||||||
+Sbjct  178  AGGGGCGGTGTGAAGCGCATCTCCGGCCTCATCTACGAGGAGACCCGCGGCGTCCTCAAG  237
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+            ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  238  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  297
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            |||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||||||
+Sbjct  298  ACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTACGGC  357
+
+Query  350  TTCGGCGGCTAG  361
+            ||||||||||||
+Sbjct  358  TTCGGCGGCTAG  369
+
+
+>emb|FP097066.1| Phyllostachys edulis cDNA clone: bphyem002o07, full insert sequence
+Length=585
+
+ Score = 457 bits (247),  Expect = 1e-124
+ Identities = 292/315 (93%), Gaps = 0/315 (0%)
+ Strand=Plus/Plus
+
+Query  46   AGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCA  105
+            ||||||||| || ||||||||||| || ||||||||||||||||||||||| ||||||||
+Sbjct  75   AGCCATGTCTGGGCGCGGCAAGGGCGGGAAGGGGCTCGGCAAGGGCGGCGCGAAGCGCCA  134
+
+Query  106  CCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGC  165
+            ||| ||||| || || ||||||||||||||||||||||||||||| ||||| ||||||||
+Sbjct  135  CCGGAAGGTACTGCGTGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGGC  194
+
+Query  166  TCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCT  225
+              |  | ||||||||||||||||||||||| |||||||||||||||||||| ||||||||
+Sbjct  195  GAGGAGGGGCGGCGTGAAGCGCATCTCCGGTCTCATCTACGAGGAGACCCGCGGCGTGCT  254
+
+Query  226  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCG  285
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  255  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCG  314
+
+Query  286  CAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTA  345
+            |||||||||||||||||||||||| ||||||||||||||||||||||| ||||| || ||
+Sbjct  315  CAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTTTA  374
+
+Query  346  CGGCTTCGGCGGCTA  360
+            |||||||||||||||
+Sbjct  375  CGGCTTCGGCGGCTA  389
+
+
+>emb|FP091250.1| Phyllostachys edulis cDNA clone: bphyst002p19, full insert sequence
+Length=658
+
+ Score = 457 bits (247),  Expect = 1e-124
+ Identities = 292/315 (93%), Gaps = 0/315 (0%)
+ Strand=Plus/Plus
+
+Query  46   AGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCA  105
+            ||||||||| |||||||||||||| || ||||||||||||||||| ||||| ||||||||
+Sbjct  86   AGCCATGTCTGGCCGCGGCAAGGGCGGGAAGGGGCTCGGCAAGGGAGGCGCGAAGCGCCA  145
+
+Query  106  CCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGC  165
+            ||| |||||| | |||||||||||||||||||||||||||||||| ||||| ||||||||
+Sbjct  146  CCGGAAGGTCTTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGGC  205
+
+Query  166  TCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCT  225
+              |  | |||||||||||||||||||||||||||||||||||||||||||| || |||||
+Sbjct  206  GAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGTGTGCT  265
+
+Query  226  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCG  285
+            |||||||||||||||||||||||||||||| |||||||||||||| ||||||||| ||||
+Sbjct  266  CAAGATCTTCCTCGAGAACGTCATCCGCGATGCCGTCACCTACACGGAGCACGCCCGCCG  325
+
+Query  286  CAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTA  345
+            |||||||||||||||||||||||| ||||||||||||||||||||||| ||||| |||||
+Sbjct  326  CAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTA  385
+
+Query  346  CGGCTTCGGCGGCTA  360
+            |||||||||||||||
+Sbjct  386  CGGCTTCGGCGGCTA  400
+
+
+>emb|FP096716.1| Phyllostachys edulis cDNA clone: bbasst002h11, full insert sequence
+Length=609
+
+ Score = 457 bits (247),  Expect = 1e-124
+ Identities = 292/315 (93%), Gaps = 0/315 (0%)
+ Strand=Plus/Plus
+
+Query  46   AGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCA  105
+            ||||||||| || ||||||||||| || ||||||||||||||||||||||| ||||||||
+Sbjct  80   AGCCATGTCTGGGCGCGGCAAGGGCGGGAAGGGGCTCGGCAAGGGCGGCGCGAAGCGCCA  139
+
+Query  106  CCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGC  165
+            ||| |||||||| |||||||||||||||||||||||||||||||| ||||| ||||||||
+Sbjct  140  CCGGAAGGTCCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGGC  199
+
+Query  166  TCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCT  225
+              |  | ||||||||||||||||||||||| |||||||||||||||||||| ||||||||
+Sbjct  200  GAGGAGGGGCGGCGTGAAGCGCATCTCCGGTCTCATCTACGAGGAGACCCGCGGCGTGCT  259
+
+Query  226  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCG  285
+            |||||||||||||||||| |||||||||||||||||||||||||| ||||||||| ||||
+Sbjct  260  CAAGATCTTCCTCGAGAATGTCATCCGCGACGCCGTCACCTACACAGAGCACGCCCGCCG  319
+
+Query  286  CAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTA  345
+            |||||||||||||||||||||||| ||||||||||||||||||||||| ||||| || ||
+Sbjct  320  CAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTTTA  379
+
+Query  346  CGGCTTCGGCGGCTA  360
+            |||||||||||||||
+Sbjct  380  CGGCTTCGGCGGCTA  394
+
+
+>emb|FP095479.1| Phyllostachys edulis cDNA clone: bphyem003i13, full insert sequence
+Length=710
+
+ Score = 457 bits (247),  Expect = 1e-124
+ Identities = 292/315 (93%), Gaps = 0/315 (0%)
+ Strand=Plus/Plus
+
+Query  46   AGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCA  105
+            ||||||||| || ||||||||||| || ||||||||||||||||||||||| ||||||||
+Sbjct  69   AGCCATGTCTGGGCGCGGCAAGGGCGGGAAGGGGCTCGGCAAGGGCGGCGCGAAGCGCCA  128
+
+Query  106  CCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGC  165
+            ||| ||||| || || ||||||||||||||||||||||||||||| ||||| ||||||||
+Sbjct  129  CCGGAAGGTACTGCGTGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGGC  188
+
+Query  166  TCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCT  225
+              |  | ||||||||||||||||||||||| |||||||||||||||||||| ||||||||
+Sbjct  189  GAGGAGGGGCGGCGTGAAGCGCATCTCCGGTCTCATCTACGAGGAGACCCGCGGCGTGCT  248
+
+Query  226  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCG  285
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  249  CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCG  308
+
+Query  286  CAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTA  345
+            |||||||||||||||||||||||| ||||||||||||||||||||||| ||||| || ||
+Sbjct  309  CAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTTTA  368
+
+Query  346  CGGCTTCGGCGGCTA  360
+            |||||||||||||||
+Sbjct  369  CGGCTTCGGCGGCTA  383
+
+
+>gb|BT068602.1| Zea mays full-length cDNA clone ZM_BFb0355L17 mRNA, complete 
+cds
+Length=633
+
+ Score = 457 bits (247),  Expect = 1e-124
+ Identities = 297/322 (92%), Gaps = 1/322 (0%)
+ Strand=Plus/Plus
+
+Query  44   TCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGC  103
+            |||| |||||||||||||||||||||||| ||||| || || ||||||||||| || |||
+Sbjct  60   TCAGACATGTCGGGCCGCGGCAAGGGAGGCAAGGGCCTGGGTAAGGGCGGCGCGAAACGC  119
+
+Query  104  CACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTG  163
+            ||||||||||| |||||||||||||||||||||||||| ||||||||||||||  | |||
+Sbjct  120  CACCGCAAGGTGCTCCGCGACAACATCCAGGGCATCACGAAGCCGGCCATCCGGAGGCTG  179
+
+Query  164  GCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTG  223
+            |||||| | |||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  180  GCTCGCAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTG  239
+
+Query  224  CTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGC  283
+            ||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||| | 
+Sbjct  240  CTCAAGATCTTTCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGCCCGG  299
+
+Query  284  CGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTC  343
+            |||||||||||||| ||||||||||| ||||||||||||||||||||||| ||||| || 
+Sbjct  300  CGCAAGACCGTCACAGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTT  359
+
+Query  344  TACGGCTTCGGCGGCTAGAGGC  365
+            |||||||||||||||||| |||
+Sbjct  360  TACGGCTTCGGCGGCTAG-GGC  380
+
+
+>gb|AC233794.1| Oryza minuta clone OM__Ba0207E07, complete sequence
+Length=152880
+
+ Score = 457 bits (247),  Expect = 1e-124
+ Identities = 304/332 (92%), Gaps = 3/332 (1%)
+ Strand=Plus/Plus
+
+Query  41      TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+               |||||||||||||||||||||||||||||||| ||||| || |||||||||||||| |||
+Sbjct  140811  TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGCAAGGGTCTTGGCAAGGGCGGCGCGAAG  140870
+
+Query  101     CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+               || ||| | ||||| || |||||||||||||||||||||||||||||||| ||||| || 
+Sbjct  140871  CGGCACAGGAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGG  140930
+
+Query  161     CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+               |||||  |  | |||||||||||||||||||||||||| ||||||||||||||||| |||
+Sbjct  140931  CTGGCGAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTGATCTACGAGGAGACCCGCGGC  140990
+
+Query  221     GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+               |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  140991  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGCC  141050
+
+Query  281     SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+                |||||||||||||||||||||||||||| |||||||| |||||||||||||| ||||| 
+Sbjct  141051  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCACTCAAGCGCCAGGGCCGCACC  141110
+
+Query  341     CTCTACGGCTTCGGCGGCTAGAG-GCCTCTCC  371
+               ||||||||||||||||||| ||| ||| ||||
+Sbjct  141111  CTCTACGGCTTCGGCGGCT-GAGTGCC-CTCC  141140
+
+
+>gb|AC232897.1| Oryza officinalis clone OO__Ba0105O20, complete sequence
+Length=133082
+
+ Score = 457 bits (247),  Expect = 1e-124
+ Identities = 304/332 (92%), Gaps = 3/332 (1%)
+ Strand=Plus/Plus
+
+Query  41      TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+               |||||||||||||||||||||||||||||||| ||||| || |||||||||||||| |||
+Sbjct  130697  TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGCAAGGGTCTTGGCAAGGGCGGCGCGAAG  130756
+
+Query  101     CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+               || ||| | ||||| || || ||||||||||||||||||||||||||||| ||||| || 
+Sbjct  130757  CGGCACAGGAAGGTGCTGCGGGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGG  130816
+
+Query  161     CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+               |||||  |  | |||||||||||||||||||||||||| ||||||||||||||||| |||
+Sbjct  130817  CTGGCGAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTGATCTACGAGGAGACCCGCGGC  130876
+
+Query  221     GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+               |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  130877  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGCC  130936
+
+Query  281     SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+                |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| 
+Sbjct  130937  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACC  130996
+
+Query  341     CTCTACGGCTTCGGCGGCTAGAG-GCCTCTCC  371
+               ||||||||||||||||||| ||| ||| ||||
+Sbjct  130997  CTCTACGGCTTCGGCGGCT-GAGTGCC-CTCC  131026
+
+
+>ref|XM_004621933.2| PREDICTED: Sorex araneus uncharacterized LOC101546773 (LOC101546773), 
+mRNA
+Length=1015
+
+ Score = 455 bits (246),  Expect = 5e-124
+ Identities = 300/326 (92%), Gaps = 3/326 (1%)
+ Strand=Plus/Plus
+
+Query  49   CATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCG  108
+            |||||| || ||||||||||| || ||||| || ||||| ||||||||||||||||||||
+Sbjct  663  CATGTCCGGACGCGGCAAGGGCGGGAAGGGCCTGGGCAAAGGCGGCGCCAAGCGCCACCG  722
+
+Query  109  CAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCG  168
+            |||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||
+Sbjct  723  CAAGGTGCTCCGCGACAACATCCAGGGCATCACCAAGCCCGCCATCCGCCGCCTGGCTCG  782
+
+Query  169  CCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAA  228
+             ||||||||||| ||||||||||| ||||||||||||||||||||||| || ||||||||
+Sbjct  783  GCGCGGCGGCGTCAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGGGTGCTCAA  842
+
+Query  229  GATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAA  288
+            | ||||||| ||||||||||||||||||||||||||||||||||||||||||   |||||
+Sbjct  843  GGTCTTCCTGGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCAAGCGCAA  902
+
+Query  289  GACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGG  348
+            ||||||||| ||||||||||| ||||||||||||||||||||||| ||||| ||||||||
+Sbjct  903  GACCGTCACGGCCATGGACGTGGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTACGG  962
+
+Query  349  CTTCGGCGGCTAGAGGCCTCTCCTCC  374
+            |||||||||||| || | ||||||||
+Sbjct  963  CTTCGGCGGCTA-AG-C-TCTCCTCC  985
+
+
+ Score = 425 bits (230),  Expect = 4e-115
+ Identities = 282/308 (92%), Gaps = 0/308 (0%)
+ Strand=Plus/Plus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            ||||| || ||||| || || || ||||| ||||| || |||||||||||||||||||||
+Sbjct  1    ATGTCTGGACGCGGGAAAGGCGGGAAGGGTCTCGGGAAAGGCGGCGCCAAGCGCCACCGC  60
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            ||||| |||||||||||||||||||||||||||||||| ||||||||||||||||| || 
+Sbjct  61   AAGGTGCTCCGCGACAACATCCAGGGCATCACCAAGCCCGCCATCCGCCGCCTGGCCCGG  120
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+            ||||||||||| ||||||||||| ||||||||||||||||||||||| || |||||||||
+Sbjct  121  CGCGGCGGCGTCAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGGGTGCTCAAG  180
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+             ||||||| ||||||||||||||||||||||||||||||||||||||||||   ||||||
+Sbjct  181  GTCTTCCTGGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCAAGCGCAAG  240
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            |||||||| ||||||||||| ||||||||||||||||||||||| ||||| |||||||||
+Sbjct  241  ACCGTCACGGCCATGGACGTGGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCTACGGC  300
+
+Query  350  TTCGGCGG  357
+            ||||||||
+Sbjct  301  TTCGGCGG  308
+
+
+>ref|XM_009392233.1| PREDICTED: Musa acuminata subsp. malaccensis histone H4 (LOC103976889), 
+mRNA
+Length=567
+
+ Score = 455 bits (246),  Expect = 5e-124
+ Identities = 299/325 (92%), Gaps = 3/325 (1%)
+ Strand=Plus/Plus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            ||||| || || || |||||||| |||||| | || |||||||| || ||||||||||||
+Sbjct  37   ATGTCCGGGCGAGGAAAGGGAGGGAAGGGGTTGGGGAAGGGCGGGGCGAAGCGCCACCGC  96
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||
+Sbjct  97   AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTCGCGCGC  156
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+            ||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  157  CGCGGCGGCGTCAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGCTCAAG  216
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+            ||||||||||||||||| ||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  217  ATCTTCCTCGAGAACGTTATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  276
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            |||||||||||||||||||| |||||||| ||||| |||||||| ||||| |||||||||
+Sbjct  277  ACCGTCACCGCCATGGACGTCGTCTACGCCCTCAAACGCCAGGGCCGCACCCTCTACGGC  336
+
+Query  350  TTCGGCGGCTAGAGGCCTCTCCTCC  374
+            |||||||| | ||| | || |||||
+Sbjct  337  TTCGGCGGTT-GAG-C-TCCCCTCC  358
+
+
+>ref|XM_008652034.1| PREDICTED: Zea mays histone H4 (LOC103631010), mRNA
+Length=608
+
+ Score = 455 bits (246),  Expect = 5e-124
+ Identities = 296/321 (92%), Gaps = 1/321 (0%)
+ Strand=Plus/Plus
+
+Query  45   CAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+            ||| |||||||||||||||||||||||| ||||| || || ||||||||||| || ||||
+Sbjct  80   CAGACATGTCGGGCCGCGGCAAGGGAGGCAAGGGCCTGGGTAAGGGCGGCGCGAAACGCC  139
+
+Query  105  ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+            |||||||||| |||||||||||||||||||||||||| ||||||||||||||  | ||||
+Sbjct  140  ACCGCAAGGTGCTCCGCGACAACATCCAGGGCATCACGAAGCCGGCCATCCGGAGGCTGG  199
+
+Query  165  CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+            ||||| | |||||||||||||||||||||||||||||||||||||||||||| |||||||
+Sbjct  200  CTCGCAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGC  259
+
+Query  225  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+            |||||||||| ||||||||||||||||||||||||||||||||||| ||||||||| | |
+Sbjct  260  TCAAGATCTTTCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGCCCGGC  319
+
+Query  285  GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+            ||||||||||||| ||||||||||| ||||||||||||||||||||||| ||||| || |
+Sbjct  320  GCAAGACCGTCACAGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTTT  379
+
+Query  345  ACGGCTTCGGCGGCTAGAGGC  365
+            ||||||||||||||||| |||
+Sbjct  380  ACGGCTTCGGCGGCTAG-GGC  399
+
+
+>gb|EU976391.1| Zea mays clone 881898 histone H4 mRNA, complete cds
+Length=598
+
+ Score = 455 bits (246),  Expect = 5e-124
+ Identities = 296/321 (92%), Gaps = 1/321 (0%)
+ Strand=Plus/Plus
+
+Query  45   CAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+            ||| |||||||||||||||||||||||| ||||| || || ||||||||||| || ||||
+Sbjct  65   CAGACATGTCGGGCCGCGGCAAGGGAGGCAAGGGCCTGGGTAAGGGCGGCGCGAAACGCC  124
+
+Query  105  ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+            |||||||||| |||||||||||||||||||||||||| ||||||||||||||  | ||||
+Sbjct  125  ACCGCAAGGTGCTCCGCGACAACATCCAGGGCATCACGAAGCCGGCCATCCGGAGGCTGG  184
+
+Query  165  CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+            ||||| | |||||||||||||||||||||||||||||||||||||||||||| |||||||
+Sbjct  185  CTCGCAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGC  244
+
+Query  225  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+            |||||||||| ||||||||||||||||||||||||||||||||||| ||||||||| | |
+Sbjct  245  TCAAGATCTTTCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGCCCGGC  304
+
+Query  285  GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+            ||||||||||||| ||||||||||| ||||||||||||||||||||||| ||||| || |
+Sbjct  305  GCAAGACCGTCACAGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTTT  364
+
+Query  345  ACGGCTTCGGCGGCTAGAGGC  365
+            ||||||||||||||||| |||
+Sbjct  365  ACGGCTTCGGCGGCTAG-GGC  384
+
+
+>gb|EU965707.1| Zea mays clone 288165 histone H4 mRNA, complete cds
+Length=609
+
+ Score = 455 bits (246),  Expect = 5e-124
+ Identities = 296/321 (92%), Gaps = 1/321 (0%)
+ Strand=Plus/Plus
+
+Query  45   CAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+            ||| |||||||||||||||||||||||| ||||| || || ||||||||||| || ||||
+Sbjct  65   CAGACATGTCGGGCCGCGGCAAGGGAGGCAAGGGCCTGGGTAAGGGCGGCGCGAAACGCC  124
+
+Query  105  ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+            |||||||||| |||||||||||||||||||||||||| ||||||||||||||  | ||||
+Sbjct  125  ACCGCAAGGTGCTCCGCGACAACATCCAGGGCATCACGAAGCCGGCCATCCGGAGGCTGG  184
+
+Query  165  CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+            ||||| | |||||||||||||||||||||||||||||||||||||||||||| |||||||
+Sbjct  185  CTCGCAGGGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGC  244
+
+Query  225  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+            |||||||||| ||||||||||||||||||||||||||||||||||| ||||||||| | |
+Sbjct  245  TCAAGATCTTTCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGCCCGGC  304
+
+Query  285  GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+            ||||||||||||| ||||||||||| ||||||||||||||||||||||| ||||| || |
+Sbjct  305  GCAAGACCGTCACAGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTTT  364
+
+Query  345  ACGGCTTCGGCGGCTAGAGGC  365
+            ||||||||||||||||| |||
+Sbjct  365  ACGGCTTCGGCGGCTAG-GGC  384
+
+
+>ref|XM_010232973.1| PREDICTED: Brachypodium distachyon histone H4 (LOC100829799), 
+mRNA
+Length=572
+
+ Score = 453 bits (245),  Expect = 2e-123
+ Identities = 292/316 (92%), Gaps = 0/316 (0%)
+ Strand=Plus/Plus
+
+Query  45   CAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+            |||||||||| || ||||||||||| || |||||||||||||||||||||||||||||||
+Sbjct  53   CAGCCATGTCCGGACGCGGCAAGGGCGGGAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  112
+
+Query  105  ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+            |||| ||||| |||||||||||||| |||||||||||||||||||| ||||| |||||||
+Sbjct  113  ACCGGAAGGTTCTCCGCGACAACATTCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGG  172
+
+Query  165  CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+            |  |  | |||||||||||||| ||||||||||||||||||||||||||||| ||||| |
+Sbjct  173  CGAGGAGAGGCGGCGTGAAGCGAATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTCC  232
+
+Query  225  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||
+Sbjct  233  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCACGCC  292
+
+Query  285  GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+            ||||||||||||| ||||||||||| |||||||| |||||||||||||| ||||| ||||
+Sbjct  293  GCAAGACCGTCACTGCCATGGACGTCGTCTACGCCCTCAAGCGCCAGGGCCGCACCCTCT  352
+
+Query  345  ACGGCTTCGGCGGCTA  360
+            ||||||||||||||||
+Sbjct  353  ACGGCTTCGGCGGCTA  368
+
+
+>dbj|AK426353.1| Brachypodium distachyon mRNA, clone: PL016C01-A-013_O22
+Length=599
+
+ Score = 453 bits (245),  Expect = 2e-123
+ Identities = 292/316 (92%), Gaps = 0/316 (0%)
+ Strand=Plus/Plus
+
+Query  45   CAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+            |||||||||| || ||||||||||| || |||||||||||||||||||||||||||||||
+Sbjct  58   CAGCCATGTCCGGACGCGGCAAGGGCGGGAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  117
+
+Query  105  ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+            |||| ||||| |||||||||||||| |||||||||||||||||||| ||||| |||||||
+Sbjct  118  ACCGGAAGGTTCTCCGCGACAACATTCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGG  177
+
+Query  165  CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+            |  |  | |||||||||||||| ||||||||||||||||||||||||||||| ||||| |
+Sbjct  178  CGAGGAGAGGCGGCGTGAAGCGAATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTCC  237
+
+Query  225  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||
+Sbjct  238  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCACGCC  297
+
+Query  285  GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+            ||||||||||||| ||||||||||| |||||||| |||||||||||||| ||||| ||||
+Sbjct  298  GCAAGACCGTCACTGCCATGGACGTCGTCTACGCCCTCAAGCGCCAGGGCCGCACCCTCT  357
+
+Query  345  ACGGCTTCGGCGGCTA  360
+            ||||||||||||||||
+Sbjct  358  ACGGCTTCGGCGGCTA  373
+
+
+>dbj|AK437234.1| Brachypodium distachyon mRNA, clone: PL016C01-A-084_J24
+Length=837
+
+ Score = 453 bits (245),  Expect = 2e-123
+ Identities = 292/316 (92%), Gaps = 0/316 (0%)
+ Strand=Plus/Plus
+
+Query  45   CAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+            |||||||||| || || || |||||||| |||||||||||||||||||||||||||||||
+Sbjct  77   CAGCCATGTCCGGGCGAGGGAAGGGAGGTAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  136
+
+Query  105  ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+            |||| ||||| || |||||||||||||||||||||||||||||||| ||||| |||||||
+Sbjct  137  ACCGGAAGGTGCTACGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGG  196
+
+Query  165  CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+            |  |  | |||||||||||||||||||||||||| ||||||||||||||||| ||||| |
+Sbjct  197  CGAGGAGGGGCGGCGTGAAGCGCATCTCCGGGCTAATCTACGAGGAGACCCGCGGCGTCC  256
+
+Query  225  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+            ||||||||||||||||||||||||||||||||||||| |||||||||||||||||| |||
+Sbjct  257  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTTACCTACACCGAGCACGCCCGCC  316
+
+Query  285  GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+            ||||||||||||||||||||||||| |||||||| |||||||||||||| ||||| ||||
+Sbjct  317  GCAAGACCGTCACCGCCATGGACGTTGTCTACGCCCTCAAGCGCCAGGGCCGCACCCTCT  376
+
+Query  345  ACGGCTTCGGCGGCTA  360
+            ||||||||||||||||
+Sbjct  377  ACGGCTTCGGCGGCTA  392
+
+
+>dbj|AK431677.1| Brachypodium distachyon mRNA, clone: PL016C01-A-048_E07
+ dbj|AK438791.1| Brachypodium distachyon mRNA, clone: PL016C01-A-095_B15
+Length=573
+
+ Score = 453 bits (245),  Expect = 2e-123
+ Identities = 292/316 (92%), Gaps = 0/316 (0%)
+ Strand=Plus/Plus
+
+Query  45   CAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+            |||||||||| || ||||||||||| || |||||||||||||||||||||||||||||||
+Sbjct  59   CAGCCATGTCCGGACGCGGCAAGGGCGGGAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  118
+
+Query  105  ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+            |||| ||||| |||||||||||||| |||||||||||||||||||| ||||| |||||||
+Sbjct  119  ACCGGAAGGTTCTCCGCGACAACATTCAGGGCATCACCAAGCCGGCGATCCGGCGCCTGG  178
+
+Query  165  CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+            |  |  | |||||||||||||| ||||||||||||||||||||||||||||| ||||| |
+Sbjct  179  CGAGGAGAGGCGGCGTGAAGCGAATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTCC  238
+
+Query  225  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||
+Sbjct  239  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCACGCC  298
+
+Query  285  GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+            ||||||||||||| ||||||||||| |||||||| |||||||||||||| ||||| ||||
+Sbjct  299  GCAAGACCGTCACTGCCATGGACGTCGTCTACGCCCTCAAGCGCCAGGGCCGCACCCTCT  358
+
+Query  345  ACGGCTTCGGCGGCTA  360
+            ||||||||||||||||
+Sbjct  359  ACGGCTTCGGCGGCTA  374
+
+
+>gb|AC210486.3| Oryza glaberrima clone OG_BBa0079C16, complete sequence
+Length=145339
+
+ Score = 453 bits (245),  Expect = 2e-123
+ Identities = 297/323 (92%), Gaps = 1/323 (0%)
+ Strand=Plus/Plus
+
+Query  41      TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAG  100
+               |||||||||||||||||||||||||||||||| ||||| || |||||||||||||| |||
+Sbjct  115709  TCGTCAGCCATGTCGGGCCGCGGCAAGGGAGGCAAGGGTCTTGGCAAGGGCGGCGCGAAG  115768
+
+Query  101     CGCCACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGC  160
+               || ||| | ||||| || |||||||||||||||||||||||||||||||| ||||| || 
+Sbjct  115769  CGGCACAGGAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGG  115828
+
+Query  161     CTGGCTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGC  220
+               |||||  |  | ||||||||||||||||||||||| || ||||||||||||||||| |||
+Sbjct  115829  CTGGCGAGGAGGGGCGGCGTGAAGCGCATCTCCGGTCTGATCTACGAGGAGACCCGCGGC  115888
+
+Query  221     GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCC  280
+               |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  115889  GTGCTCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGCC  115948
+
+Query  281     SGCCGCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACT  340
+                |||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| 
+Sbjct  115949  CGCCGCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGCCGCACC  116008
+
+Query  341     CTCTACGGCTTCGGCGGCTAGAG  363
+               ||||||||||||||||||| |||
+Sbjct  116009  CTCTACGGCTTCGGCGGCT-GAG  116030
+
+
+>ref|XM_004973232.2| PREDICTED: Setaria italica histone H4 (LOC101773830), mRNA
+Length=670
+
+ Score = 451 bits (244),  Expect = 7e-123
+ Identities = 289/312 (93%), Gaps = 0/312 (0%)
+ Strand=Plus/Plus
+
+Query  50   ATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGC  109
+            |||||||| ||||||||||| || |||||||| |||||||||||||||||||||||||||
+Sbjct  101  ATGTCGGGGCGCGGCAAGGGCGGCAAGGGGCTGGGCAAGGGCGGCGCCAAGCGCCACCGC  160
+
+Query  110  AAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGC  169
+            ||||| ||||||||||||||||||||||||||||||||||| |||||  | |||||  | 
+Sbjct  161  AAGGTGCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCGATCCGGAGGCTGGCGAGG  220
+
+Query  170  CGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAG  229
+             | |||||||||||||||||||| ||||||||||||||||||||||| ||||||||||||
+Sbjct  221  AGGGGCGGCGTGAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCGTGCTCAAG  280
+
+Query  230  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAG  289
+            ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  281  ATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAG  340
+
+Query  290  ACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGC  349
+            ||||||||||||||||| || |||||||||||||| |||||||| ||||| |||||||| 
+Sbjct  341  ACCGTCACCGCCATGGATGTCGTCTACGCGCTCAAACGCCAGGGCCGCACCCTCTACGGA  400
+
+Query  350  TTCGGCGGCTAG  361
+            ||||||||||||
+Sbjct  401  TTCGGCGGCTAG  412
+
+
+>ref|XM_003578555.2| PREDICTED: Brachypodium distachyon histone H4 (LOC100831084), 
+mRNA
+Length=751
+
+ Score = 451 bits (244),  Expect = 7e-123
+ Identities = 281/300 (94%), Gaps = 0/300 (0%)
+ Strand=Plus/Plus
+
+Query  62   GGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGCAAGGTCCTCCGC  121
+            ||||||||||| |||||||||||||||||||| |||||||| ||||| ||||| || |||
+Sbjct  122  GGCAAGGGAGGGAAGGGGCTCGGCAAGGGCGGAGCCAAGCGGCACCGGAAGGTGCTGCGC  181
+
+Query  122  GACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGCCGCGGCGGCGTG  181
+            ||||||||||||||||||||||||||||| ||||| || ||||| ||| | |||||||||
+Sbjct  182  GACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGTCTGGCGCGCAGGGGCGGCGTG  241
+
+Query  182  AAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAGATCTTCCTCGAG  241
+            ||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||
+Sbjct  242  AAGCGCATCTCCGGGCTGATCTACGAGGAGACCCGCGGCGTGCTCAAGATCTTCCTCGAG  301
+
+Query  242  AACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAGACCGTCACCGCC  301
+            ||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| 
+Sbjct  302  AACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAGACCGTCACCGCG  361
+
+Query  302  ATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGCTTCGGCGGCTAG  361
+            |||||||| ||||||||||||||||||||||| ||||| |||||||||||||||||||||
+Sbjct  362  ATGGACGTCGTCTACGCGCTCAAGCGCCAGGGACGCACCCTCTACGGCTTCGGCGGCTAG  421
+
+
+>ref|XR_732084.1| PREDICTED: Brachypodium distachyon histone H4-like (LOC104584388), 
+misc_RNA
+Length=632
+
+ Score = 451 bits (244),  Expect = 7e-123
+ Identities = 294/319 (92%), Gaps = 1/319 (0%)
+ Strand=Plus/Plus
+
+Query  45   CAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+            |||||||||||||||||||||||||||| ||||| || |||||||||||||| ||||| |
+Sbjct  100  CAGCCATGTCGGGCCGCGGCAAGGGAGGCAAGGGCCTGGGCAAGGGCGGCGCGAAGCGGC  159
+
+Query  105  ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+            |||| ||||| ||||| |||||||||||||||||||| |||||||| ||| |  | ||||
+Sbjct  160  ACCGGAAGGTGCTCCGGGACAACATCCAGGGCATCACGAAGCCGGCGATCAGGAGGCTGG  219
+
+Query  165  CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+            | || || |||||||||||||||||||||||||||||||||||||||||||| |||||||
+Sbjct  220  CGCGGCGTGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGCGGCGTGC  279
+
+Query  225  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+            |||||||||||||||||||||||||||||||||||||||||||||| ||||||||| |||
+Sbjct  280  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGCCCGCC  339
+
+Query  285  GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+            ||||||||||||||||||||||||| ||||||||||||||||||||||| ||||| ||||
+Sbjct  340  GCAAGACCGTCACCGCCATGGACGTCGTCTACGCGCTCAAGCGCCAGGGACGCACCCTCT  399
+
+Query  345  ACGGCTTCGGCGGCTAGAG  363
+            |||||||||| |||| |||
+Sbjct  400  ACGGCTTCGGAGGCT-GAG  417
+
+
+>dbj|AK427359.1| Brachypodium distachyon mRNA, clone: PL016C01-A-020_F22
+Length=727
+
+ Score = 451 bits (244),  Expect = 7e-123
+ Identities = 281/300 (94%), Gaps = 0/300 (0%)
+ Strand=Plus/Plus
+
+Query  62   GGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGCAAGGTCCTCCGC  121
+            ||||||||||| |||||||||||||||||||| |||||||| ||||| ||||| || |||
+Sbjct  102  GGCAAGGGAGGGAAGGGGCTCGGCAAGGGCGGAGCCAAGCGGCACCGGAAGGTGCTGCGC  161
+
+Query  122  GACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGCCGCGGCGGCGTG  181
+            ||||||||||||||||||||||||||||| ||||| || ||||| ||| | |||||||||
+Sbjct  162  GACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGTCTGGCGCGCAGGGGCGGCGTG  221
+
+Query  182  AAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAGATCTTCCTCGAG  241
+            ||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||
+Sbjct  222  AAGCGCATCTCCGGGCTGATCTACGAGGAGACCCGCGGCGTGCTCAAGATCTTCCTCGAG  281
+
+Query  242  AACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAGACCGTCACCGCC  301
+            ||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| 
+Sbjct  282  AACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAGACCGTCACCGCG  341
+
+Query  302  ATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGCTTCGGCGGCTAG  361
+            |||||||| ||||||||||||||||||||||| ||||| |||||||||||||||||||||
+Sbjct  342  ATGGACGTCGTCTACGCGCTCAAGCGCCAGGGACGCACCCTCTACGGCTTCGGCGGCTAG  401
+
+
+>dbj|AK427184.1| Brachypodium distachyon mRNA, clone: PL016C01-A-019_C23
+Length=732
+
+ Score = 451 bits (244),  Expect = 7e-123
+ Identities = 281/300 (94%), Gaps = 0/300 (0%)
+ Strand=Plus/Plus
+
+Query  62   GGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCACCGCAAGGTCCTCCGC  121
+            ||||||||||| |||||||||||||||||||| |||||||| ||||| ||||| || |||
+Sbjct  102  GGCAAGGGAGGGAAGGGGCTCGGCAAGGGCGGAGCCAAGCGGCACCGGAAGGTGCTGCGC  161
+
+Query  122  GACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGCTCGCCGCGGCGGCGTG  181
+            ||||||||||||||||||||||||||||| ||||| || ||||| ||| | |||||||||
+Sbjct  162  GACAACATCCAGGGCATCACCAAGCCGGCGATCCGGCGTCTGGCGCGCAGGGGCGGCGTG  221
+
+Query  182  AAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCTCAAGATCTTCCTCGAG  241
+            ||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||
+Sbjct  222  AAGCGCATCTCCGGGCTGATCTACGAGGAGACCCGCGGCGTGCTCAAGATCTTCCTCGAG  281
+
+Query  242  AACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCGCAAGACCGTCACCGCC  301
+            ||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| 
+Sbjct  282  AACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCCGCCGCAAGACCGTCACCGCG  341
+
+Query  302  ATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTACGGCTTCGGCGGCTAG  361
+            |||||||| ||||||||||||||||||||||| ||||| |||||||||||||||||||||
+Sbjct  342  ATGGACGTCGTCTACGCGCTCAAGCGCCAGGGACGCACCCTCTACGGCTTCGGCGGCTAG  401
+
+
+>ref|XM_004621936.2| PREDICTED: Sorex araneus histone H4 (LOC101547553), mRNA
+Length=369
+
+ Score = 449 bits (243),  Expect = 2e-122
+ Identities = 292/316 (92%), Gaps = 1/316 (0%)
+ Strand=Plus/Plus
+
+Query  45   CAGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+            ||| |||||| || ||||||||||| || ||||| || ||||||||||||||||||||||
+Sbjct  3    CAG-CATGTCCGGACGCGGCAAGGGCGGGAAGGGCCTGGGCAAGGGCGGCGCCAAGCGCC  61
+
+Query  105  ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+            |||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||
+Sbjct  62   ACCGCAAGGTGCTCCGCGACAACATCCAGGGCATCACCAAGCCCGCCATCCGCCGCCTGG  121
+
+Query  165  CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+            | || ||||||||||| ||||||||||| ||||||||||||||||||||||| || ||||
+Sbjct  122  CCCGGCGCGGCGGCGTCAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGGGTGC  181
+
+Query  225  TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+            ||||| ||||||| ||||||||||||||||||||||||||||||||||||||||||   |
+Sbjct  182  TCAAGGTCTTCCTGGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCAAGC  241
+
+Query  285  GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+            ||||||||||||| ||||||||||| ||||||||||||||||||||||| ||||| ||||
+Sbjct  242  GCAAGACCGTCACGGCCATGGACGTGGTCTACGCGCTCAAGCGCCAGGGCCGCACCCTCT  301
+
+Query  345  ACGGCTTCGGCGGCTA  360
+            ||||||||||||||||
+Sbjct  302  ACGGCTTCGGCGGCTA  317
+
+
+>ref|XM_008262527.1| PREDICTED: Oryctolagus cuniculus uncharacterized LOC100343399 
+(LOC100343399), mRNA
+Length=3481
+
+ Score = 449 bits (243),  Expect = 2e-122
+ Identities = 294/319 (92%), Gaps = 2/319 (1%)
+ Strand=Plus/Plus
+
+Query  46    AGC-CATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCC  104
+             ||| |||||| |||||||||||||| || ||||| || ||||||||||||||||||||||
+Sbjct  3111  AGCGCATGTCTGGCCGCGGCAAGGGCGGGAAGGGCCTGGGCAAGGGCGGCGCCAAGCGCC  3170
+
+Query  105   ACCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGG  164
+             |||||||||| || ||||||||||||||||||||||||||||| ||||||||||||||||
+Sbjct  3171  ACCGCAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCCGCCATCCGCCGCCTGG  3230
+
+Query  165   CTCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGC  224
+             | || ||||||||||| ||||||||||| ||||||||||||||||||||||| |||||||
+Sbjct  3231  CCCGGCGCGGCGGCGTCAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCGTGC  3290
+
+Query  225   TCAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCC  284
+             ||||| |||||||||||||||||||||||||||||||||||||||| |||||||||   |
+Sbjct  3291  TCAAGGTCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGCCAAGC  3350
+
+Query  285   GCAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCT  344
+             ||||||| ||||| ||||||||||| ||||||||||||||||||||||| ||||| ||||
+Sbjct  3351  GCAAGACGGTCACGGCCATGGACGTGGTCTACGCGCTCAAGCGCCAGGGACGCACGCTCT  3410
+
+Query  345   ACGGCTTCGGCGGCTAGAG  363
+             ||||||||||||||| |||
+Sbjct  3411  ACGGCTTCGGCGGCT-GAG  3428
+
+
+ Score = 436 bits (236),  Expect = 2e-118
+ Identities = 291/318 (92%), Gaps = 1/318 (0%)
+ Strand=Plus/Plus
+
+Query  46    AGCCATGTCGGGCCGCGGCAAGGGAGGAAAGGGGCTCGGCAAGGGCGGCGCCAAGCGCCA  105
+             ||| ||||| || || |||||||| || ||||| || |||||||||||||||||||||||
+Sbjct  1555  AGCGATGTCTGGTCGTGGCAAGGGCGGGAAGGGCCTGGGCAAGGGCGGCGCCAAGCGCCA  1614
+
+Query  106   CCGCAAGGTCCTCCGCGACAACATCCAGGGCATCACCAAGCCGGCCATCCGCCGCCTGGC  165
+             ||||||||| || ||||||||||||||||||||||||||||| |||||||||||||||||
+Sbjct  1615  CCGCAAGGTGCTGCGCGACAACATCCAGGGCATCACCAAGCCCGCCATCCGCCGCCTGGC  1674
+
+Query  166   TCGCCGCGGCGGCGTGAAGCGCATCTCCGGGCTCATCTACGAGGAGACCCGTGGCGTGCT  225
+              || ||||||||||| ||||||||||| ||||||||||||||||||||||| ||||||||
+Sbjct  1675  CCGGCGCGGCGGCGTCAAGCGCATCTCGGGGCTCATCTACGAGGAGACCCGCGGCGTGCT  1734
+
+Query  226   CAAGATCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACCGAGCACGCCSGCCG  285
+             |||| |||||||||||||||||||||||||||||||||||||||| |||||||||   ||
+Sbjct  1735  CAAGGTCTTCCTCGAGAACGTCATCCGCGACGCCGTCACCTACACGGAGCACGCCAAGCG  1794
+
+Query  286   CAAGACCGTCACCGCCATGGACGTAGTCTACGCGCTCAAGCGCCAGGGTCGCACTCTCTA  345
+             |||||| ||||| ||||||||||| ||||||||||||||||||||||| ||||| |||||
+Sbjct  1795  CAAGACGGTCACGGCCATGGACGTGGTCTACGCGCTCAAGCGCCAGGGACGCACGCTCTA  1854
+
+Query  346   CGGCTTCGGCGGCTAGAG  363
+             |||||||||||||| |||
+Sbjct  1855  CGGCTTCGGCGGCT-GAG  1871
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Dec 7, 2015  10:27 AM
+  Number of letters in database: 107,612,224,345
+  Number of sequences in database:  33,707,972
+
+Lambda      K        H
+    1.33    0.621     1.13 
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+Matrix: blastn matrix:1 -2
+Gap Penalties: Existence: 0, Extension: 0
+Number of Sequences: 33707972
+Number of Hits to DB: 0
+Number of extensions: 0
+Number of successful extensions: 0
+Number of sequences better than 10: 5
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 5
+Number of HSP's successfully gapped: 5
+Length of query: 616
+Length of database: 107612224345
+Length adjustment: 34
+Effective length of query: 582
+Effective length of database: 106466153297
+Effective search space: 61963301218854
+Effective search space used: 61963301218854
+A: 0
+X1: 13 (25.0 bits)
+X2: 32 (59.1 bits)
+X3: 54 (99.7 bits)
+S1: 13 (25.1 bits)
+S2: 23 (43.6 bits)
+
+
+
+

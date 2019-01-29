@@ -1,0 +1,9 @@
+WD_0002 Ser/Thr protein phosphatase family protein
+WD_0003 GTP cyclohydrolase II (ribA)
+WD_0006 type IV secretion system protein VirB10 
+WD_0008 type IV secretion system protein VirD4
+WD_0016 translation elongation factor G 
+WD_0023 ribosomal protein L7/L12 
+WD_0025 NifR3 family protein
+WD_0031 hypothetical protein
+WD_0040 dnaJ protein

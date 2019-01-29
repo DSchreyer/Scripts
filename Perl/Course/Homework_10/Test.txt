@@ -1,0 +1,12 @@
+
+while ($answer eq "yes"){
+
+	my $number = <STDIN>;
+	
+	
+	print "Do you want to enter more numbers(yes/no): ";
+	my $answer = <STDIN>;
+	if ($answer == "no"){
+		die;
+	}
+}

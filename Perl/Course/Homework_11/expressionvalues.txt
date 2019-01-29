@@ -1,0 +1,10 @@
+Fly1	M	10
+Fly2	M	14
+Fly3	F	44
+Fly4	F	20
+Fly5	M	22
+Fly6	F	10
+FLy7	F	4
+Fly8	M	88
+Fly9	M	55
+Fly10	F	32
